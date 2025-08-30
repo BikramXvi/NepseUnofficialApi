@@ -104,7 +104,7 @@ def save_df_to_all_folders(df, folder_name, filename):
         os.makedirs(folder_path, exist_ok=True)
         filepath = os.path.join(folder_path, filename)
         df.to_csv(filepath, mode="w", header=True, index=False)
-    print(f"✅ Saved {filename} to {folder_name}")
+    print(f"OK Saved {filename} to {folder_name}")
 
 def process_data(data, endpoint_name, extra_cols=None):
     if extra_cols is None:
@@ -230,7 +230,7 @@ def main():
                 if df is not None and not df.empty:
                     all_data.append(df)
             else:
-                print(f"❌ No data for symbol {sym}")
+                print(f"No data for symbol {sym}")
 
         if all_data:
             combined_df = pd.concat(all_data, ignore_index=True)
@@ -245,4 +245,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
