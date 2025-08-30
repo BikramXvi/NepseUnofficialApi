@@ -5,11 +5,11 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-# ------------------ Paths ------------------
+
 NEPSE_FILE = os.path.join("to-csv", "NepseAPI", "NepseIndex.csv")
 USER_FILE = "user_portfolio.csv"
 
-# Ensure portfolio CSV exists
+
 if not os.path.exists(USER_FILE):
     pd.DataFrame(columns=[
         "boid", "username", "stock", "buy_price_stock", "quantity",
@@ -19,7 +19,7 @@ if not os.path.exists(USER_FILE):
         "date"
     ]).to_csv(USER_FILE, index=False)
 
-# ------------------ Helpers ------------------
+
 def get_latest_nepse_index():
     """Read live NEPSE CSV and filter only 'NEPSE Index'."""
     if not os.path.exists(NEPSE_FILE):
@@ -33,7 +33,7 @@ def get_latest_nepse_index():
     current_value = float(latest['currentValue'])
     return previous_close, current_value
 
-# ------------------ Routes ------------------
+
 @app.route('/', methods=['GET'])
 def home():
     """Clean UI to add multiple stock transactions."""
@@ -130,7 +130,7 @@ def add_transaction():
         nepse_prev, nepse_current = get_latest_nepse_index()
         new_rows = []
 
-        # Process multiple stock rows (we allowed 5 rows in form)
+        
         for i in range(5):
             stock = request.form.get(f"stock_{i}")
             buy_price_stock = request.form.get(f"buy_price_stock_{i}")
@@ -173,7 +173,7 @@ def add_transaction():
         if not new_rows:
             return '<p class="error">No valid transactions to add!</p>'
 
-        # Append to CSV
+        
         df = pd.read_csv(USER_FILE)
         df = pd.concat([df, pd.DataFrame(new_rows)], ignore_index=True)
         df.to_csv(USER_FILE, index=False)
@@ -218,6 +218,7 @@ def portfolio_vs_nepse(boid):
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# ------------------ Run App ------------------
+
 if __name__ == "__main__":
     app.run(debug=True)
+
