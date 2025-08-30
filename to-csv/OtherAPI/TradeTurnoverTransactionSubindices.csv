@@ -1,0 +1,599 @@
+ltp,percentageChange,pointChange,sectorName,symbol,totalTradeQuantity,totalTrades,totalTurnover,fetched_at,date,source_endpoint
+0.0,0.0,0.0,Development Banks,ACEDBL,0,0,0.0,2025-08-30 12:59:55.482957,2025-08-30,TradeTurnoverTransactionSubindices
+1078.55,-1.39,-15.23,Microfinance,ACLBSL,1785,51,1922459.1,2025-08-30 12:59:55.482979,2025-08-30,TradeTurnoverTransactionSubindices
+327.55,-1.13,-3.76,Commercial Banks,ADBL,66102,314,21736108.5,2025-08-30 12:59:55.482985,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,ADBLB,0,0,0.0,2025-08-30 12:59:55.482988,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,ADBLB86,0,0,0.0,2025-08-30 12:59:55.482992,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,ADBLB87,0,0,0.0,2025-08-30 12:59:55.482995,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,ADBLD83,0,0,0.0,2025-08-30 12:59:55.482999,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,ADLB,0,0,0.0,2025-08-30 12:59:55.483003,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,AEFL,0,0,0.0,2025-08-30 12:59:55.483007,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,AFL,0,0,0.0,2025-08-30 12:59:55.483011,2025-08-30,TradeTurnoverTransactionSubindices
+655.52,2.54,16.26,Hydro Power,AHL,9444,155,6073765.0,2025-08-30 12:59:55.483014,2025-08-30,TradeTurnoverTransactionSubindices
+291.63,-2.29,-6.84,Hydro Power,AHPC,172491,563,50937768.6,2025-08-30 12:59:55.483018,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Non Life Insurance,AIL,0,0,0.0,2025-08-30 12:59:55.483021,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,AKBSL,0,0,0.0,2025-08-30 12:59:55.483025,2025-08-30,TradeTurnoverTransactionSubindices
+204.08,-1.81,-3.77,Hydro Power,AKJCL,80486,318,16495473.1,2025-08-30 12:59:55.483028,2025-08-30,TradeTurnoverTransactionSubindices
+268.55,-0.03,-0.09,Hydro Power,AKPL,540030,1710,146930020.3,2025-08-30 12:59:55.483031,2025-08-30,TradeTurnoverTransactionSubindices
+1019.17,1.31,13.14,Microfinance,ALBSL,42597,341,42943764.4,2025-08-30 12:59:55.483034,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,ALDBL,0,0,0.0,2025-08-30 12:59:55.483040,2025-08-30,TradeTurnoverTransactionSubindices
+490.37,-2.37,-11.91,Life Insurance,ALICL,19572,179,9664370.7,2025-08-30 12:59:55.483043,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,AMFI,0,0,0.0,2025-08-30 12:59:55.483047,2025-08-30,TradeTurnoverTransactionSubindices
+5864.55,1.51,87.04,Microfinance,ANLB,819,51,4689747.7,2025-08-30 12:59:55.483051,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,APEX,0,0,0.0,2025-08-30 12:59:55.483054,2025-08-30,TradeTurnoverTransactionSubindices
+294.75,-1.39,-4.14,Hydro Power,API,141601,455,41966757.2,2025-08-30 12:59:55.483058,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,ARDBL,0,0,0.0,2025-08-30 12:59:55.483061,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,AVU,0,0,0.0,2025-08-30 12:59:55.483065,2025-08-30,TradeTurnoverTransactionSubindices
+1016.09,-1.73,-17.88,Microfinance,AVYAN,5906,71,6018059.4,2025-08-30 12:59:55.483069,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,AXIS,0,0,0.0,2025-08-30 12:59:55.483072,2025-08-30,TradeTurnoverTransactionSubindices
+357.29,-1.86,-6.79,Hydro Power,BARUN,55432,246,20055505.6,2025-08-30 12:59:55.483076,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,BBBL,0,0,0.0,2025-08-30 12:59:55.483080,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,BBBLN,0,0,0.0,2025-08-30 12:59:55.483083,2025-08-30,TradeTurnoverTransactionSubindices
+5390.7,-1.34,-73.05,Tradings,BBC,450,40,2440681.4,2025-08-30 12:59:55.483086,2025-08-30,TradeTurnoverTransactionSubindices
+713.53,-2.35,-17.15,Hydro Power,BEDC,10001,100,7208059.0,2025-08-30 12:59:55.483090,2025-08-30,TradeTurnoverTransactionSubindices
+492.55,-2.18,-10.99,Finance,BFC,19508,135,9698274.4,2025-08-30 12:59:55.483093,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,BFCL,0,0,0.0,2025-08-30 12:59:55.483096,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,BFIL,0,0,0.0,2025-08-30 12:59:55.483100,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,BGDBL,0,0,0.0,2025-08-30 12:59:55.483103,2025-08-30,TradeTurnoverTransactionSubindices
+906.6,0.17,1.55,Hydro Power,BGWT,1028,38,931692.2,2025-08-30 12:59:55.483106,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,BHBL,0,0,0.0,2025-08-30 12:59:55.483110,2025-08-30,TradeTurnoverTransactionSubindices
+568.9,10.0,51.7,Hydro Power,BHCL,34970,3497,19892587.0,2025-08-30 12:59:55.483113,2025-08-30,TradeTurnoverTransactionSubindices
+566.22,-1.64,-9.42,Hydro Power,BHDC,84272,303,48133041.8,2025-08-30 12:59:55.483117,2025-08-30,TradeTurnoverTransactionSubindices
+198.52,-0.39,-0.77,Hydro Power,BHL,141798,628,28261387.4,2025-08-30 12:59:55.483120,2025-08-30,TradeTurnoverTransactionSubindices
+771.2,-1.63,-12.8,Hydro Power,BHPL,3418,41,2650082.9,2025-08-30 12:59:55.483124,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,BJFL,0,0,0.0,2025-08-30 12:59:55.483127,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,BJM,0,0,0.0,2025-08-30 12:59:55.483131,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,BLDBL,0,0,0.0,2025-08-30 12:59:55.483134,2025-08-30,TradeTurnoverTransactionSubindices
+517.73,-0.86,-4.47,Hydro Power,BNHC,14074,96,7294096.4,2025-08-30 12:59:55.483137,2025-08-30,TradeTurnoverTransactionSubindices
+16082.0,-2.0,-328.0,Manufacturing And Processing,BNL,32,3,514656.0,2025-08-30 12:59:55.483141,2025-08-30,TradeTurnoverTransactionSubindices
+11950.0,-0.34,-40.86,Manufacturing And Processing,BNT,130,11,1552782.5,2025-08-30 12:59:55.483144,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,BOAN,0,0,0.0,2025-08-30 12:59:55.483148,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,BOKD2079,0,0,0.0,2025-08-30 12:59:55.483151,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,BOKD86,0,0,0.0,2025-08-30 12:59:55.483154,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,BOKD86KA,0,0,0.0,2025-08-30 12:59:55.483157,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,BOKL,0,0,0.0,2025-08-30 12:59:55.483161,2025-08-30,TradeTurnoverTransactionSubindices
+832.5,-2.3,-19.63,Hydro Power,BPCL,166350,717,140817308.0,2025-08-30 12:59:55.483164,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,BPW,0,0,0.0,2025-08-30 12:59:55.483168,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,BRTBL,0,0,0.0,2025-08-30 12:59:55.483171,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,BSL,0,0,0.0,2025-08-30 12:59:55.483174,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,BSM,0,0,0.0,2025-08-30 12:59:55.483178,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,BUDBL,0,0,0.0,2025-08-30 12:59:55.483181,2025-08-30,TradeTurnoverTransactionSubindices
+10.17,0.2,0.02,Commercial Banks,C30MF,677300,76,6876186.0,2025-08-30 12:59:55.483185,2025-08-30,TradeTurnoverTransactionSubindices
+1069.84,-0.78,-8.37,Microfinance,CBBL,47731,362,51159356.8,2025-08-30 12:59:55.483188,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,CBL,0,0,0.0,2025-08-30 12:59:55.483192,2025-08-30,TradeTurnoverTransactionSubindices
+1115.2,0.02,0.2,Commercial Banks,CBLD88,50,2,55755.0,2025-08-30 12:59:55.483195,2025-08-30,TradeTurnoverTransactionSubindices
+1126.0,-0.79,-9.0,Commercial Banks,CCBD88,25,1,28150.0,2025-08-30 12:59:55.483199,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,CCBL,0,0,0.0,2025-08-30 12:59:55.483202,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,CEDBL,0,0,0.0,2025-08-30 12:59:55.483206,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,CEFL,0,0,0.0,2025-08-30 12:59:55.483209,2025-08-30,TradeTurnoverTransactionSubindices
+506.82,-2.28,-11.83,Finance,CFCL,16623,102,8500454.5,2025-08-30 12:59:55.483213,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,CFL,0,0,0.0,2025-08-30 12:59:55.483216,2025-08-30,TradeTurnoverTransactionSubindices
+1056.49,-0.58,-6.17,Hotels And Tourism,CGH,178031,736,189023634.0,2025-08-30 12:59:55.483220,2025-08-30,TradeTurnoverTransactionSubindices
+510.16,-1.47,-7.62,Hydro Power,CHCL,45569,320,23359321.0,2025-08-30 12:59:55.483223,2025-08-30,TradeTurnoverTransactionSubindices
+2584.49,-2.12,-55.91,Investment,CHDC,27548,425,71929715.9,2025-08-30 12:59:55.483226,2025-08-30,TradeTurnoverTransactionSubindices
+285.36,-2.99,-8.79,Hydro Power,CHL,41002,248,11784434.4,2025-08-30 12:59:55.483230,2025-08-30,TradeTurnoverTransactionSubindices
+1925.61,-0.78,-15.2,Investment,CIT,10344,237,19955098.9,2025-08-30 12:59:55.483233,2025-08-30,TradeTurnoverTransactionSubindices
+602.34,-1.25,-7.65,Hotels And Tourism,CITY,18590,135,11278906.4,2025-08-30 12:59:55.483237,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,CIVIC,0,0,0.0,2025-08-30 12:59:55.483240,2025-08-30,TradeTurnoverTransactionSubindices
+1117.0,-0.45,-5.0,Commercial Banks,CIZBD86,114,3,127345.5,2025-08-30 12:59:55.483243,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,CIZBD90,0,0,0.0,2025-08-30 12:59:55.483248,2025-08-30,TradeTurnoverTransactionSubindices
+674.93,-1.37,-9.38,Hydro Power,CKHL,3875,57,2630712.4,2025-08-30 12:59:55.483252,2025-08-30,TradeTurnoverTransactionSubindices
+473.22,-1.62,-7.78,Life Insurance,CLI,20473,395,9817811.0,2025-08-30 12:59:55.483255,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,CMB,0,0,0.0,2025-08-30 12:59:55.483259,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,CMBF,0,0,0.0,2025-08-30 12:59:55.483262,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,CMBSL,0,0,0.0,2025-08-30 12:59:55.483265,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,CMF1,0,0,0.0,2025-08-30 12:59:55.483269,2025-08-30,TradeTurnoverTransactionSubindices
+10.14,-1.55,-0.16,Mutual Fund,CMF2,17595,9,178790.9,2025-08-30 12:59:55.483272,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,CNDBL,0,0,0.0,2025-08-30 12:59:55.483275,2025-08-30,TradeTurnoverTransactionSubindices
+1954.43,0.15,2.86,Development Banks,CORBL,3180,91,6214072.0,2025-08-30 12:59:55.483278,2025-08-30,TradeTurnoverTransactionSubindices
+1232.08,-3.59,-45.85,Life Insurance,CREST,14883,459,18677240.5,2025-08-30 12:59:55.483282,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,CSDBL,0,0,0.0,2025-08-30 12:59:55.483285,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,CTBNL,0,0,0.0,2025-08-30 12:59:55.483289,2025-08-30,TradeTurnoverTransactionSubindices
+1727.72,-3.0,-53.45,Microfinance,CYCL,5543,184,9625944.5,2025-08-30 12:59:55.483292,2025-08-30,TradeTurnoverTransactionSubindices
+209.24,-0.87,-1.84,Commercial Banks,CZBIL,53507,186,11175393.3,2025-08-30 12:59:55.483295,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,DBBL,0,0,0.0,2025-08-30 12:59:55.483298,2025-08-30,TradeTurnoverTransactionSubindices
+892.68,-2.25,-20.58,Microfinance,DDBL,29669,335,26710476.7,2025-08-30 12:59:55.483302,2025-08-30,TradeTurnoverTransactionSubindices
+314.18,-1.46,-4.66,Hydro Power,DHPL,10752,87,3389682.0,2025-08-30 12:59:55.483305,2025-08-30,TradeTurnoverTransactionSubindices
+1433.49,-1.88,-27.49,Microfinance,DLBS,1889,62,2732971.1,2025-08-30 12:59:55.483309,2025-08-30,TradeTurnoverTransactionSubindices
+575.28,-0.55,-3.2,Hydro Power,DOLTI,6809,87,3916200.5,2025-08-30 12:59:55.483312,2025-08-30,TradeTurnoverTransactionSubindices
+279.77,0.47,1.31,Hydro Power,DORDI,58545,319,16472719.6,2025-08-30 12:59:55.483316,2025-08-30,TradeTurnoverTransactionSubindices
+747.67,-0.52,-3.89,Commercial Banks,EBL,80293,380,60081358.7,2025-08-30 12:59:55.483320,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,EBLCP,0,0,0.0,2025-08-30 12:59:55.483323,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,EBLD2078,0,0,0.0,2025-08-30 12:59:55.483326,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,EBLD85,25,1,29125.0,2025-08-30 12:59:55.483330,2025-08-30,TradeTurnoverTransactionSubindices
+1036.5,-1.29,-13.5,Commercial Banks,EBLD86,30,2,31105.0,2025-08-30 12:59:55.483333,2025-08-30,TradeTurnoverTransactionSubindices
+1007.2,-0.28,-2.8,Commercial Banks,EBLD91,75,3,75437.5,2025-08-30 12:59:55.483337,2025-08-30,TradeTurnoverTransactionSubindices
+1010.0,0.55,5.5,Commercial Banks,EBLEB89,25,1,25250.0,2025-08-30 12:59:55.483340,2025-08-30,TradeTurnoverTransactionSubindices
+640.49,-0.95,-6.17,Development Banks,EDBL,35089,133,22662006.6,2025-08-30 12:59:55.483343,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,EFL,0,0,0.0,2025-08-30 12:59:55.483346,2025-08-30,TradeTurnoverTransactionSubindices
+587.75,-0.83,-4.91,Hydro Power,EHPL,2305,34,1355117.0,2025-08-30 12:59:55.483350,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Non Life Insurance,EIC,0,0,0.0,2025-08-30 12:59:55.483353,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,EKBL,0,0,0.0,2025-08-30 12:59:55.483357,2025-08-30,TradeTurnoverTransactionSubindices
+1056.72,-1.18,-12.58,Investment,ENL,1489,38,1580610.7,2025-08-30 12:59:55.483360,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Others,ESC,0,0,0.0,2025-08-30 12:59:55.483363,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,FFCL,0,0,0.0,2025-08-30 12:59:55.483367,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,FHL,0,0,0.0,2025-08-30 12:59:55.483370,2025-08-30,TradeTurnoverTransactionSubindices
+888.49,-1.06,-9.48,Microfinance,FMDBL,90750,481,81688671.3,2025-08-30 12:59:55.483373,2025-08-30,TradeTurnoverTransactionSubindices
+1135.04,-2.12,-24.57,Microfinance,FOWAD,2888,54,3296159.8,2025-08-30 12:59:55.483376,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,GABL,0,0,0.0,2025-08-30 12:59:55.483380,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,GBBD85,125,4,131312.5,2025-08-30 12:59:55.483389,2025-08-30,TradeTurnoverTransactionSubindices
+433.32,-1.45,-6.36,Development Banks,GBBL,119069,349,52310941.1,2025-08-30 12:59:55.483392,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,GBD80/81,0,0,0.0,2025-08-30 12:59:55.483396,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,GBILD84/85,0,0,0.0,2025-08-30 12:59:55.483399,2025-08-30,TradeTurnoverTransactionSubindices
+1095.0,-1.97,-22.0,Commercial Banks,GBILD86/87,16,1,17520.0,2025-08-30 12:59:55.483402,2025-08-30,TradeTurnoverTransactionSubindices
+251.62,-1.44,-3.67,Commercial Banks,GBIME,147140,409,37063219.3,2025-08-30 12:59:55.483405,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,GBIMESY2,100,1,1000.0,2025-08-30 12:59:55.483409,2025-08-30,TradeTurnoverTransactionSubindices
+776.51,-1.83,-14.51,Microfinance,GBLBS,8015,137,6255797.6,2025-08-30 12:59:55.483412,2025-08-30,TradeTurnoverTransactionSubindices
+491.53,-2.46,-12.4,Manufacturing And Processing,GCIL,33672,384,16707894.3,2025-08-30 12:59:55.483415,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,GDBL,0,0,0.0,2025-08-30 12:59:55.483419,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,GDBL1,0,0,0.0,2025-08-30 12:59:55.483422,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,GDBNL,0,0,0.0,2025-08-30 12:59:55.483425,2025-08-30,TradeTurnoverTransactionSubindices
+630.53,-1.37,-8.77,Finance,GFCL,8776,104,5565787.3,2025-08-30 12:59:55.483429,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,GFLK,0,0,0.0,2025-08-30 12:59:55.483432,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,GGBSL,0,0,0.0,2025-08-30 12:59:55.483436,2025-08-30,TradeTurnoverTransactionSubindices
+235.77,-1.85,-4.44,Hydro Power,GHL,131501,402,31411008.0,2025-08-30 12:59:55.483439,2025-08-30,TradeTurnoverTransactionSubindices
+11.1,-0.89,-0.1,Mutual Fund,GIBF1,4100,22,45204.0,2025-08-30 12:59:55.483443,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Non Life Insurance,GIC,0,0,0.0,2025-08-30 12:59:55.483446,2025-08-30,TradeTurnoverTransactionSubindices
+1298.98,-2.11,-28.02,Microfinance,GILB,7669,99,10051167.2,2025-08-30 12:59:55.483453,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,GIMES1,0,0,0.0,2025-08-30 12:59:55.483456,2025-08-30,TradeTurnoverTransactionSubindices
+2181.9,-1.79,-39.66,Microfinance,GLBSL,2260,77,4949088.5,2025-08-30 12:59:55.483460,2025-08-30,TradeTurnoverTransactionSubindices
+268.24,-1.48,-4.04,Hydro Power,GLH,62349,272,16945031.7,2025-08-30 12:59:55.483463,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Life Insurance,GLICL,0,0,0.0,2025-08-30 12:59:55.483466,2025-08-30,TradeTurnoverTransactionSubindices
+1612.67,-1.66,-27.26,Microfinance,GMFBS,2974,28,4837666.0,2025-08-30 12:59:55.483470,2025-08-30,TradeTurnoverTransactionSubindices
+476.89,-2.09,-10.19,Finance,GMFIL,11732,71,5623410.3,2025-08-30 12:59:55.483473,2025-08-30,TradeTurnoverTransactionSubindices
+2094.52,-3.2,-69.17,Life Insurance,GMLI,7271,229,15370637.6,2025-08-30 12:59:55.483477,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,GRAND,0,0,0.0,2025-08-30 12:59:55.483480,2025-08-30,TradeTurnoverTransactionSubindices
+1174.92,0.78,9.09,Development Banks,GRDBL,22806,187,26921802.3,2025-08-30 12:59:55.483483,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,GRU,0,0,0.0,2025-08-30 12:59:55.483487,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,GSDBL,0,0,0.0,2025-08-30 12:59:55.483490,2025-08-30,TradeTurnoverTransactionSubindices
+9.28,-0.11,-0.01,Development Banks,GSY,18050,30,167797.5,2025-08-30 12:59:55.483494,2025-08-30,TradeTurnoverTransactionSubindices
+531.34,-1.3,-6.99,Finance,GUFL,8114,83,4333257.8,2025-08-30 12:59:55.483497,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,GULMI,0,0,0.0,2025-08-30 12:59:55.483501,2025-08-30,TradeTurnoverTransactionSubindices
+561.13,-3.5,-20.34,Hydro Power,GVL,141033,698,80401570.9,2025-08-30 12:59:55.483504,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,GWFD83,0,0,0.0,2025-08-30 12:59:55.483508,2025-08-30,TradeTurnoverTransactionSubindices
+11.63,1.48,0.17,Commercial Banks,H8020,3198,13,36810.64,2025-08-30 12:59:55.483511,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,HAMA,0,0,0.0,2025-08-30 12:59:55.483515,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,HAMRO,0,0,0.0,2025-08-30 12:59:55.483518,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,HATH,0,0,0.0,2025-08-30 12:59:55.483521,2025-08-30,TradeTurnoverTransactionSubindices
+1258.99,-0.49,-6.24,Investment,HATHY,55660,762,70301860.8,2025-08-30 12:59:55.483525,2025-08-30,TradeTurnoverTransactionSubindices
+209.59,-0.8,-1.68,Commercial Banks,HBL,80057,345,16728255.17,2025-08-30 12:59:55.483528,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,HBLD83,0,0,0.0,2025-08-30 12:59:55.483532,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,HBLD86,0,0,0.0,2025-08-30 12:59:55.483535,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,HBT,0,0,0.0,2025-08-30 12:59:55.483538,2025-08-30,TradeTurnoverTransactionSubindices
+196.32,-1.12,-2.23,Hydro Power,HDHPC,122214,378,24159434.7,2025-08-30 12:59:55.483541,2025-08-30,TradeTurnoverTransactionSubindices
+1419.3,-1.44,-20.73,Manufacturing And Processing,HDL,243935,1918,350421793.4,2025-08-30 12:59:55.483544,2025-08-30,TradeTurnoverTransactionSubindices
+601.39,2.08,12.26,Non Life Insurance,HEI,48717,265,29005450.9,2025-08-30 12:59:55.483548,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,HFL,0,0,0.0,2025-08-30 12:59:55.483552,2025-08-30,TradeTurnoverTransactionSubindices
+372.49,-1.62,-6.12,Hydro Power,HHL,35563,219,13370498.6,2025-08-30 12:59:55.483557,2025-08-30,TradeTurnoverTransactionSubindices
+287.56,-2.33,-6.85,Investment,HIDCL,151856,522,44086393.3,2025-08-30 12:59:55.483563,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Hydro Power,HIMSTAR,0,0,0.0,2025-08-30 12:59:55.483566,2025-08-30,TradeTurnoverTransactionSubindices
+1002.04,-0.82,-8.27,Microfinance,HLBSL,4160,74,4165046.3,2025-08-30 12:59:55.483570,2025-08-30,TradeTurnoverTransactionSubindices
+406.49,-2.09,-8.66,Life Insurance,HLI,70849,542,29023765.9,2025-08-30 12:59:55.483573,2025-08-30,TradeTurnoverTransactionSubindices
+494.85,-1.26,-6.33,Hydro Power,HPPL,36715,227,18377324.0,2025-08-30 12:59:55.483577,2025-08-30,TradeTurnoverTransactionSubindices
+1032.21,-2.17,-22.87,Others,HRL,578159,4291,606949761.0,2025-08-30 12:59:55.483580,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,HTL,0,0,0.0,2025-08-30 12:59:55.483584,2025-08-30,TradeTurnoverTransactionSubindices
+237.78,-1.48,-3.57,Hydro Power,HURJA,61625,208,14784968.1,2025-08-30 12:59:55.483588,2025-08-30,TradeTurnoverTransactionSubindices
+670.46,-2.33,-15.96,Finance,ICFC,28273,186,19285432.5,2025-08-30 12:59:55.483591,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,ICFCD83,0,0,0.0,2025-08-30 12:59:55.483595,2025-08-30,TradeTurnoverTransactionSubindices
+1090.0,1.87,20.0,Finance,ICFCD88,101,7,108090.0,2025-08-30 12:59:55.483598,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,IDBL,0,0,0.0,2025-08-30 12:59:55.483602,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,IFIL,0,0,0.0,2025-08-30 12:59:55.483605,2025-08-30,TradeTurnoverTransactionSubindices
+530.65,-1.34,-7.21,Non Life Insurance,IGI,14163,105,7602226.4,2025-08-30 12:59:55.483608,2025-08-30,TradeTurnoverTransactionSubindices
+563.34,-0.74,-4.18,Hydro Power,IHL,2619,74,1477646.5,2025-08-30 12:59:55.483611,2025-08-30,TradeTurnoverTransactionSubindices
+1244.75,-1.7,-21.55,Microfinance,ILBS,19521,160,24378130.0,2025-08-30 12:59:55.483614,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,ILFC,0,0,0.0,2025-08-30 12:59:55.483618,2025-08-30,TradeTurnoverTransactionSubindices
+453.14,-1.2,-5.51,Life Insurance,ILI,27705,427,12691752.5,2025-08-30 12:59:55.483621,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,IMEFI,0,0,0.0,2025-08-30 12:59:55.483624,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,INDB,0,0,0.0,2025-08-30 12:59:55.483627,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,INDBL,0,0,0.0,2025-08-30 12:59:55.483630,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,JALPA,0,0,0.0,2025-08-30 12:59:55.483634,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,JBBD87,0,0,0.0,2025-08-30 12:59:55.483637,2025-08-30,TradeTurnoverTransactionSubindices
+336.45,-3.23,-11.23,Development Banks,JBBL,70948,338,24300853.6,2025-08-30 12:59:55.483640,2025-08-30,TradeTurnoverTransactionSubindices
+1487.17,-0.94,-14.04,Microfinance,JBLB,10356,228,15410889.9,2025-08-30 12:59:55.483644,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,JBNL,0,0,0.0,2025-08-30 12:59:55.483647,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,JEFL,0,0,0.0,2025-08-30 12:59:55.483650,2025-08-30,TradeTurnoverTransactionSubindices
+468.03,-1.88,-8.96,Finance,JFL,10725,112,5074284.0,2025-08-30 12:59:55.483653,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,JHBL,0,0,0.0,2025-08-30 12:59:55.483657,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Life Insurance,JLI,0,0,0.0,2025-08-30 12:59:55.483660,2025-08-30,TradeTurnoverTransactionSubindices
+306.28,-0.57,-1.76,Hydro Power,JOSHI,15531,108,4784441.6,2025-08-30 12:59:55.483663,2025-08-30,TradeTurnoverTransactionSubindices
+1250.4,-3.66,-47.5,Microfinance,JSLBB,3305,40,4177684.0,2025-08-30 12:59:55.483667,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,JSM,0,0,0.0,2025-08-30 12:59:55.483670,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KADBL,0,0,0.0,2025-08-30 12:59:55.483673,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,KAFIL,0,0,0.0,2025-08-30 12:59:55.483676,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KBBL,0,0,0.0,2025-08-30 12:59:55.483680,2025-08-30,TradeTurnoverTransactionSubindices
+200.22,-1.82,-3.71,Commercial Banks,KBL,388024,920,78202786.7,2025-08-30 12:59:55.483684,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,KBLD86,0,0,0.0,2025-08-30 12:59:55.483687,2025-08-30,TradeTurnoverTransactionSubindices
+1200.0,-1.64,-20.0,Commercial Banks,KBLD89,60,2,72000.0,2025-08-30 12:59:55.483690,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,KBLD90,0,0,0.0,2025-08-30 12:59:55.483693,2025-08-30,TradeTurnoverTransactionSubindices
+1900.0,-0.78,-14.98,Hydro Power,KBSH,172,10,327926.0,2025-08-30 12:59:55.483696,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KCDBL,0,0,0.0,2025-08-30 12:59:55.483700,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KDBL,0,0,0.0,2025-08-30 12:59:55.483703,2025-08-30,TradeTurnoverTransactionSubindices
+9.16,1.1,0.1,Commercial Banks,KDBY,24475,35,221089.25,2025-08-30 12:59:55.483706,2025-08-30,TradeTurnoverTransactionSubindices
+1082.05,-0.47,-5.1,Hotels And Tourism,KDL,2791,80,3048285.0,2025-08-30 12:59:55.483709,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KEBL,0,0,0.0,2025-08-30 12:59:55.483713,2025-08-30,TradeTurnoverTransactionSubindices
+9.05,1.12,0.1,Commercial Banks,KEF,3510,18,31516.0,2025-08-30 12:59:55.483716,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KHDBL,0,0,0.0,2025-08-30 12:59:55.483719,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KKBL,0,0,0.0,2025-08-30 12:59:55.483722,2025-08-30,TradeTurnoverTransactionSubindices
+256.24,-0.66,-1.7,Hydro Power,KKHC,10582,80,2728031.4,2025-08-30 12:59:55.483727,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,KLBS,0,0,0.0,2025-08-30 12:59:55.483730,2025-08-30,TradeTurnoverTransactionSubindices
+1067.76,-2.75,-30.16,Microfinance,KMCDB,8838,132,9495856.7,2025-08-30 12:59:55.483734,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KNBL,0,0,0.0,2025-08-30 12:59:55.483738,2025-08-30,TradeTurnoverTransactionSubindices
+575.63,-1.97,-11.57,Hydro Power,KPCL,81542,341,47483533.2,2025-08-30 12:59:55.483741,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KRBL,0,0,0.0,2025-08-30 12:59:55.483744,2025-08-30,TradeTurnoverTransactionSubindices
+527.92,-3.41,-18.65,Development Banks,KSBBL,209893,610,113425194.9,2025-08-30 12:59:55.483747,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,KSBBLD87,0,0,0.0,2025-08-30 12:59:55.483751,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,KSY,1690,11,15815.1,2025-08-30 12:59:55.483754,2025-08-30,TradeTurnoverTransactionSubindices
+552.99,-4.18,-24.11,Development Banks,LBBL,309487,1045,173785033.7,2025-08-30 12:59:55.483757,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,LBBLD89,0,0,0.0,2025-08-30 12:59:55.483760,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,LBFIL,0,0,0.0,2025-08-30 12:59:55.483763,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,LBLD86,0,0,0.0,2025-08-30 12:59:55.483767,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,LBLD88,0,0,0.0,2025-08-30 12:59:55.483770,2025-08-30,TradeTurnoverTransactionSubindices
+239.48,-1.18,-2.86,Hydro Power,LEC,334435,944,81324447.3,2025-08-30 12:59:55.483774,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,LEMF,0,0,0.0,2025-08-30 12:59:55.483777,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,LFC,0,0,0.0,2025-08-30 12:59:55.483780,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,LFLC,0,0,0.0,2025-08-30 12:59:55.483783,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Non Life Insurance,LGIL,0,0,0.0,2025-08-30 12:59:55.483787,2025-08-30,TradeTurnoverTransactionSubindices
+868.52,-0.61,-5.29,Life Insurance,LICN,7791,89,6795294.1,2025-08-30 12:59:55.483791,2025-08-30,TradeTurnoverTransactionSubindices
+1035.18,-2.42,-25.62,Microfinance,LLBS,920,29,959099.9,2025-08-30 12:59:55.483794,2025-08-30,TradeTurnoverTransactionSubindices
+234.75,-1.36,-3.24,Commercial Banks,LSL,73425,203,17355499.8,2025-08-30 12:59:55.483798,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,LUBL,0,0,0.0,2025-08-30 12:59:55.483803,2025-08-30,TradeTurnoverTransactionSubindices
+9.31,-0.85,-0.08,Mutual Fund,LUK,24723,20,231212.98,2025-08-30 12:59:55.483806,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,LVF1,0,0,0.0,2025-08-30 12:59:55.483809,2025-08-30,TradeTurnoverTransactionSubindices
+9.07,-0.77,-0.07,Commercial Banks,LVF2,68280,25,625284.8,2025-08-30 12:59:55.483812,2025-08-30,TradeTurnoverTransactionSubindices
+592.49,-2.36,-14.34,Hydro Power,MAKAR,2990,66,1782868.0,2025-08-30 12:59:55.483815,2025-08-30,TradeTurnoverTransactionSubindices
+850.69,-1.23,-10.56,Hydro Power,MANDU,5276,77,4495600.2,2025-08-30 12:59:55.483819,2025-08-30,TradeTurnoverTransactionSubindices
+1087.61,-1.21,-13.35,Microfinance,MATRI,1987,52,2164129.0,2025-08-30 12:59:55.483822,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MBBL,0,0,0.0,2025-08-30 12:59:55.483825,2025-08-30,TradeTurnoverTransactionSubindices
+315.29,-2.36,-7.63,Hydro Power,MBJC,26964,246,8534859.5,2025-08-30 12:59:55.483828,2025-08-30,TradeTurnoverTransactionSubindices
+250.5,-0.67,-1.68,Commercial Banks,MBL,49903,173,12490787.4,2025-08-30 12:59:55.483831,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,MBLD2085,0,0,0.0,2025-08-30 12:59:55.483835,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,MBLD87,0,0,0.0,2025-08-30 12:59:55.483839,2025-08-30,TradeTurnoverTransactionSubindices
+9.17,-0.86,-0.08,Commercial Banks,MBLEF,9850,14,90935.5,2025-08-30 12:59:55.483842,2025-08-30,TradeTurnoverTransactionSubindices
+523.43,-1.63,-8.68,Hydro Power,MCHL,3960,54,2081336.5,2025-08-30 12:59:55.483845,2025-08-30,TradeTurnoverTransactionSubindices
+625.45,-2.36,-15.12,Development Banks,MDB,31236,206,19769569.8,2025-08-30 12:59:55.483848,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,MEGA,0,0,0.0,2025-08-30 12:59:55.483852,2025-08-30,TradeTurnoverTransactionSubindices
+444.43,-2.69,-12.29,Hydro Power,MEHL,12570,137,5654199.6,2025-08-30 12:59:55.483856,2025-08-30,TradeTurnoverTransactionSubindices
+298.83,-2.08,-6.35,Hydro Power,MEL,35379,254,10655224.9,2025-08-30 12:59:55.483859,2025-08-30,TradeTurnoverTransactionSubindices
+630.54,-1.11,-7.07,Hydro Power,MEN,55515,342,35292360.6,2025-08-30 12:59:55.483863,2025-08-30,TradeTurnoverTransactionSubindices
+856.4,-0.05,-0.42,Microfinance,MERO,25196,148,21564333.0,2025-08-30 12:59:55.483871,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,METRO,0,0,0.0,2025-08-30 12:59:55.483876,2025-08-30,TradeTurnoverTransactionSubindices
+683.51,-2.11,-14.75,Finance,MFIL,34552,202,23821736.8,2025-08-30 12:59:55.483879,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,MFL,0,0,0.0,2025-08-30 12:59:55.483883,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,MFLD85,0,0,0.0,2025-08-30 12:59:55.483887,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MGBL,0,0,0.0,2025-08-30 12:59:55.483891,2025-08-30,TradeTurnoverTransactionSubindices
+447.47,-0.58,-2.61,Hydro Power,MHCL,6112,101,2756723.9,2025-08-30 12:59:55.483894,2025-08-30,TradeTurnoverTransactionSubindices
+521.11,-2.16,-11.5,Hydro Power,MHL,50549,357,26605391.7,2025-08-30 12:59:55.483897,2025-08-30,TradeTurnoverTransactionSubindices
+263.13,-3.19,-8.68,Hydro Power,MHNL,72466,194,18938615.8,2025-08-30 12:59:55.483900,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MIDBL,0,0,0.0,2025-08-30 12:59:55.483903,2025-08-30,TradeTurnoverTransactionSubindices
+1650.18,-0.49,-8.05,Others,MKCL,13186,130,21729599.2,2025-08-30 12:59:55.483907,2025-08-30,TradeTurnoverTransactionSubindices
+438.58,-1.73,-7.72,Hydro Power,MKHC,11138,117,4908708.7,2025-08-30 12:59:55.483911,2025-08-30,TradeTurnoverTransactionSubindices
+796.11,-1.08,-8.69,Hydro Power,MKHL,2153,49,1721656.5,2025-08-30 12:59:55.483915,2025-08-30,TradeTurnoverTransactionSubindices
+589.21,3.62,20.56,Hydro Power,MKJC,197464,742,115087143.4,2025-08-30 12:59:55.483919,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,MKLB,0,0,0.0,2025-08-30 12:59:55.483922,2025-08-30,TradeTurnoverTransactionSubindices
+1542.42,-2.93,-46.51,Microfinance,MLBBL,3005,73,4691398.4,2025-08-30 12:59:55.483926,2025-08-30,TradeTurnoverTransactionSubindices
+397.7,-2.81,-11.51,Development Banks,MLBL,103163,380,41582872.9,2025-08-30 12:59:55.483929,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MLBL1,0,0,0.0,2025-08-30 12:59:55.483932,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MLBLD89,0,0,0.0,2025-08-30 12:59:55.483935,2025-08-30,TradeTurnoverTransactionSubindices
+1584.81,-2.53,-41.09,Microfinance,MLBS,410,17,650182.0,2025-08-30 12:59:55.483938,2025-08-30,TradeTurnoverTransactionSubindices
+2124.06,-0.03,-0.59,Microfinance,MLBSL,2354,51,4987837.6,2025-08-30 12:59:55.483942,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MMDBL,0,0,0.0,2025-08-30 12:59:55.483946,2025-08-30,TradeTurnoverTransactionSubindices
+9.32,-0.32,-0.03,Commercial Banks,MMF1,32270,25,300526.45,2025-08-30 12:59:55.483950,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,MMFDB,0,0,0.0,2025-08-30 12:59:55.483953,2025-08-30,TradeTurnoverTransactionSubindices
+571.5,-1.04,-6.02,Hydro Power,MMKJL,3292,58,1867962.0,2025-08-30 12:59:55.483956,2025-08-30,TradeTurnoverTransactionSubindices
+448.65,-2.63,-12.1,Development Banks,MNBBL,199228,623,90705316.8,2025-08-30 12:59:55.483959,2025-08-30,TradeTurnoverTransactionSubindices
+1088.0,-1.98,-21.99,Development Banks,MND84/85,50,1,54400.0,2025-08-30 12:59:55.483962,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MNMF1,9200,21,84803.07,2025-08-30 12:59:55.483970,2025-08-30,TradeTurnoverTransactionSubindices
+591.02,-1.13,-6.78,Finance,MPFL,11131,98,6624508.9,2025-08-30 12:59:55.483973,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MSBBL,0,0,0.0,2025-08-30 12:59:55.483976,2025-08-30,TradeTurnoverTransactionSubindices
+902.48,-1.44,-13.23,Hydro Power,MSHL,568,24,514258.0,2025-08-30 12:59:55.483979,2025-08-30,TradeTurnoverTransactionSubindices
+1484.71,-3.49,-53.75,Microfinance,MSLB,8157,154,12282847.8,2025-08-30 12:59:55.483984,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,MSM,0,0,0.0,2025-08-30 12:59:55.483987,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,MSMBS,0,0,0.0,2025-08-30 12:59:55.483992,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,MTBL,0,0,0.0,2025-08-30 12:59:55.483995,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NABB,0,0,0.0,2025-08-30 12:59:55.483998,2025-08-30,TradeTurnoverTransactionSubindices
+800.77,-3.53,-29.27,Development Banks,NABBC,20144,110,16368113.0,2025-08-30 12:59:55.484001,2025-08-30,TradeTurnoverTransactionSubindices
+528.86,-0.94,-5.01,Commercial Banks,NABIL,83641,489,44571924.6,2025-08-30 12:59:55.484004,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NABILD87,0,0,0.0,2025-08-30 12:59:55.484007,2025-08-30,TradeTurnoverTransactionSubindices
+830.19,1.67,13.6,Microfinance,NADEP,11646,107,9676759.4,2025-08-30 12:59:55.484011,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,NAGRO,0,0,0.0,2025-08-30 12:59:55.484014,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NBB,0,0,0.0,2025-08-30 12:59:55.484019,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NBBD2085,0,0,0.0,2025-08-30 12:59:55.484022,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,NBBL,0,0,0.0,2025-08-30 12:59:55.484025,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,NBBU,0,0,0.0,2025-08-30 12:59:55.484029,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Tradings,NBCK,0,0,0.0,2025-08-30 12:59:55.484032,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NBF1,0,0,0.0,2025-08-30 12:59:55.484035,2025-08-30,TradeTurnoverTransactionSubindices
+10.26,0.39,0.04,Commercial Banks,NBF2,24092,15,247118.94,2025-08-30 12:59:55.484038,2025-08-30,TradeTurnoverTransactionSubindices
+10.12,0.1,0.01,Commercial Banks,NBF3,49874,43,501728.58,2025-08-30 12:59:55.484041,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NBFL,0,0,0.0,2025-08-30 12:59:55.484044,2025-08-30,TradeTurnoverTransactionSubindices
+253.1,-0.78,-2.0,Commercial Banks,NBL,76661,353,19433399.3,2025-08-30 12:59:55.484047,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NBLD82,0,0,0.0,2025-08-30 12:59:55.484053,2025-08-30,TradeTurnoverTransactionSubindices
+1075.0,1.9,20.0,Commercial Banks,NBLD85,892,11,959522.0,2025-08-30 12:59:55.484056,2025-08-30,TradeTurnoverTransactionSubindices
+1038.1,0.22,2.3,Commercial Banks,NBLD87,50,2,51905.0,2025-08-30 12:59:55.484060,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NBSL,0,0,0.0,2025-08-30 12:59:55.484063,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NCCB,0,0,0.0,2025-08-30 12:59:55.484066,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NCCD86,0,0,0.0,2025-08-30 12:59:55.484069,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,NCDB,0,0,0.0,2025-08-30 12:59:55.484072,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,NCDBL,0,0,0.0,2025-08-30 12:59:55.484075,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NCM,0,0,0.0,2025-08-30 12:59:55.484078,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NCMMF,0,0,0.0,2025-08-30 12:59:55.484081,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,NDB,0,0,0.0,2025-08-30 12:59:55.484086,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NDFL,0,0,0.0,2025-08-30 12:59:55.484089,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NEF,0,0,0.0,2025-08-30 12:59:55.484092,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NEFL,0,0,0.0,2025-08-30 12:59:55.484095,2025-08-30,TradeTurnoverTransactionSubindices
+1552.5,-2.47,-39.25,Microfinance,NESDO,1648,43,2579300.0,2025-08-30 12:59:55.484098,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Others,NFD,0,0,0.0,2025-08-30 12:59:55.484101,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NFL,0,0,0.0,2025-08-30 12:59:55.484104,2025-08-30,TradeTurnoverTransactionSubindices
+681.75,-1.89,-13.16,Finance,NFS,23492,215,16174848.3,2025-08-30 12:59:55.484107,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,NGBL,0,0,0.0,2025-08-30 12:59:55.484110,2025-08-30,TradeTurnoverTransactionSubindices
+403.71,-1.92,-7.89,Hydro Power,NGPL,373453,932,152567004.0,2025-08-30 12:59:55.484113,2025-08-30,TradeTurnoverTransactionSubindices
+714.29,-0.33,-2.35,Hydro Power,NHDL,11590,84,8283747.8,2025-08-30 12:59:55.484118,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NHMF,0,0,0.0,2025-08-30 12:59:55.484121,2025-08-30,TradeTurnoverTransactionSubindices
+207.22,-1.96,-4.15,Hydro Power,NHPC,89957,268,18801328.4,2025-08-30 12:59:55.484124,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NIBD2082,0,0,0.0,2025-08-30 12:59:55.484127,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NIBD84,0,0,0.0,2025-08-30 12:59:55.484130,2025-08-30,TradeTurnoverTransactionSubindices
+9.3,0.54,0.05,Mutual Fund,NIBLGF,1800,10,16750.0,2025-08-30 12:59:55.484133,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NIBLPF,0,0,0.0,2025-08-30 12:59:55.484136,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NIBLSTF,1000,9,8648.0,2025-08-30 12:59:55.484139,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NIBSF1,0,0,0.0,2025-08-30 12:59:55.484142,2025-08-30,TradeTurnoverTransactionSubindices
+8.73,0.81,0.07,Commercial Banks,NIBSF2,3800,8,33280.0,2025-08-30 12:59:55.484145,2025-08-30,TradeTurnoverTransactionSubindices
+351.32,-0.03,-0.12,Commercial Banks,NICA,63594,391,22397074.1,2025-08-30 12:59:55.484150,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NICAD2091,0,0,0.0,2025-08-30 12:59:55.484154,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NICAD8182,0,0,0.0,2025-08-30 12:59:55.484157,2025-08-30,TradeTurnoverTransactionSubindices
+1060.0,-0.47,-5.0,Commercial Banks,NICAD8283,50,1,53000.0,2025-08-30 12:59:55.484164,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NICAD85/86,0,0,0.0,2025-08-30 12:59:55.484167,2025-08-30,TradeTurnoverTransactionSubindices
+8.92,-1.87,-0.17,Mutual Fund,NICBF,6126,10,54683.96,2025-08-30 12:59:55.484170,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NICD83/84,0,0,0.0,2025-08-30 12:59:55.484173,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NICD88,0,0,0.0,2025-08-30 12:59:55.484176,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NICFC,2700,17,24170.0,2025-08-30 12:59:55.484180,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NICGF,0,0,0.0,2025-08-30 12:59:55.484183,2025-08-30,TradeTurnoverTransactionSubindices
+8.86,1.84,0.16,Commercial Banks,NICGF2,26123,15,234606.0,2025-08-30 12:59:55.484187,2025-08-30,TradeTurnoverTransactionSubindices
+609.88,-1.27,-7.82,Non Life Insurance,NICL,12171,92,7468494.2,2025-08-30 12:59:55.484190,2025-08-30,TradeTurnoverTransactionSubindices
+614.2,-1.09,-6.75,Microfinance,NICLBSL,6918,135,4261585.6,2025-08-30 12:59:55.484193,2025-08-30,TradeTurnoverTransactionSubindices
+8.91,-1.33,-0.12,Mutual Fund,NICSF,1100,5,9801.0,2025-08-30 12:59:55.484196,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,NIDC,0,0,0.0,2025-08-30 12:59:55.484199,2025-08-30,TradeTurnoverTransactionSubindices
+280.39,-2.64,-7.61,Investment,NIFRA,246183,1028,69827840.7,2025-08-30 12:59:55.484203,2025-08-30,TradeTurnoverTransactionSubindices
+1010.0,-0.43,-4.37,Investment,NIFRAGED,439,7,441640.0,2025-08-30 12:59:55.484207,2025-08-30,TradeTurnoverTransactionSubindices
+1030.0,0.98,10.0,Investment,NIFRAUR85/86,25,1,25750.0,2025-08-30 12:59:55.484211,2025-08-30,TradeTurnoverTransactionSubindices
+704.6,-0.9,-6.4,Non Life Insurance,NIL,8168,144,5780902.8,2025-08-30 12:59:55.484214,2025-08-30,TradeTurnoverTransactionSubindices
+209.83,-1.57,-3.35,Commercial Banks,NIMB,152964,471,32252566.9,2025-08-30 12:59:55.484217,2025-08-30,TradeTurnoverTransactionSubindices
+1160.0,-0.43,-5.0,Commercial Banks,NIMBD90,25,1,29000.0,2025-08-30 12:59:55.484221,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,NKU,0,0,0.0,2025-08-30 12:59:55.484224,2025-08-30,TradeTurnoverTransactionSubindices
+844.26,3.19,26.09,Non Life Insurance,NLG,160606,812,135843124.0,2025-08-30 12:59:55.484228,2025-08-30,TradeTurnoverTransactionSubindices
+784.06,-1.13,-8.97,Life Insurance,NLIC,31371,245,24742285.2,2025-08-30 12:59:55.484231,2025-08-30,TradeTurnoverTransactionSubindices
+601.56,-2.29,-14.09,Life Insurance,NLICL,31930,216,19225294.9,2025-08-30 12:59:55.484234,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,NLO,0,0,0.0,2025-08-30 12:59:55.484237,2025-08-30,TradeTurnoverTransactionSubindices
+250.61,-1.05,-2.66,Commercial Banks,NMB,81745,266,20730968.8,2025-08-30 12:59:55.484240,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Mutual Fund,NMB50,560527,52,6419106.5,2025-08-30 12:59:55.484243,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NMBD2085,0,0,0.0,2025-08-30 12:59:55.484246,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NMBD87/88,0,0,0.0,2025-08-30 12:59:55.484249,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NMBD89/90,0,0,0.0,2025-08-30 12:59:55.484253,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NMBEB92/93,0,0,0.0,2025-08-30 12:59:55.484257,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NMBHF1,0,0,0.0,2025-08-30 12:59:55.484260,2025-08-30,TradeTurnoverTransactionSubindices
+9.15,1.44,0.13,Commercial Banks,NMBHF2,15200,36,138142.0,2025-08-30 12:59:55.484264,2025-08-30,TradeTurnoverTransactionSubindices
+701.85,-1.7,-12.15,Microfinance,NMBMF,4003,47,2822587.8,2025-08-30 12:59:55.484267,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NMBSF1,0,0,0.0,2025-08-30 12:59:55.484270,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,NMBUR93/94,0,0,0.0,2025-08-30 12:59:55.484273,2025-08-30,TradeTurnoverTransactionSubindices
+1288.77,-1.82,-23.84,Microfinance,NMFBS,10847,68,14080851.7,2025-08-30 12:59:55.484276,2025-08-30,TradeTurnoverTransactionSubindices
+1403.88,-3.24,-46.97,Non Life Insurance,NMIC,13440,370,19193678.0,2025-08-30 12:59:55.484279,2025-08-30,TradeTurnoverTransactionSubindices
+678.52,-2.44,-16.97,Microfinance,NMLBBL,9875,93,6763457.7,2025-08-30 12:59:55.484282,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NNFC,0,0,0.0,2025-08-30 12:59:55.484286,2025-08-30,TradeTurnoverTransactionSubindices
+1689.84,-2.43,-42.05,Others,NRIC,384160,2138,654403822.1,2025-08-30 12:59:55.484289,2025-08-30,TradeTurnoverTransactionSubindices
+535.73,0.17,0.93,Others,NRM,137302,788,73426119.1,2025-08-30 12:59:55.484292,2025-08-30,TradeTurnoverTransactionSubindices
+2134.16,-1.87,-40.57,Investment,NRN,42484,377,91373406.9,2025-08-30 12:59:55.484295,2025-08-30,TradeTurnoverTransactionSubindices
+11.38,1.25,0.14,Mutual Fund,NSIF2,76660,44,867527.6,2025-08-30 12:59:55.484298,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,NSLB,0,0,0.0,2025-08-30 12:59:55.484301,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NSLMB,0,0,0.0,2025-08-30 12:59:55.484305,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,NSM,0,0,0.0,2025-08-30 12:59:55.484308,2025-08-30,TradeTurnoverTransactionSubindices
+849.32,-0.32,-2.74,Others,NTC,38036,402,32350190.5,2025-08-30 12:59:55.484311,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Tradings,NTL,0,0,0.0,2025-08-30 12:59:55.484314,2025-08-30,TradeTurnoverTransactionSubindices
+789.1,-1.73,-13.93,Microfinance,NUBL,18404,157,14619224.8,2025-08-30 12:59:55.484318,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,NVG,0,0,0.0,2025-08-30 12:59:55.484322,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Tradings,NWC,0,0,0.0,2025-08-30 12:59:55.484325,2025-08-30,TradeTurnoverTransactionSubindices
+884.89,-2.66,-24.21,Others,NWCL,8371,81,7514074.0,2025-08-30 12:59:55.484328,2025-08-30,TradeTurnoverTransactionSubindices
+421.53,-1.76,-7.57,Hydro Power,NYADI,13388,107,5671554.4,2025-08-30 12:59:55.484331,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,ODBL,0,0,0.0,2025-08-30 12:59:55.484334,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,OFL,0,0,0.0,2025-08-30 12:59:55.484337,2025-08-30,TradeTurnoverTransactionSubindices
+859.74,-4.71,-42.51,Hotels And Tourism,OHL,91197,321,79218566.3,2025-08-30 12:59:55.484340,2025-08-30,TradeTurnoverTransactionSubindices
+1330.31,-2.95,-40.48,Manufacturing And Processing,OMPL,13313,343,17926586.6,2025-08-30 12:59:55.484343,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PADBL,0,0,0.0,2025-08-30 12:59:55.484346,2025-08-30,TradeTurnoverTransactionSubindices
+1101.0,0.09,1.0,Commercial Banks,PBD84,235,2,258435.0,2025-08-30 12:59:55.484351,2025-08-30,TradeTurnoverTransactionSubindices
+1090.0,0.99,10.67,Commercial Banks,PBD85,1640,3,1786400.0,2025-08-30 12:59:55.484354,2025-08-30,TradeTurnoverTransactionSubindices
+1111.0,-0.36,-4.0,Commercial Banks,PBD88,25,2,27795.0,2025-08-30 12:59:55.484358,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,PBLD84,50,1,55000.0,2025-08-30 12:59:55.484361,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,PBLD86,0,0,0.0,2025-08-30 12:59:55.484366,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,PBLD87,0,0,0.0,2025-08-30 12:59:55.484369,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PBSL,0,0,0.0,2025-08-30 12:59:55.484372,2025-08-30,TradeTurnoverTransactionSubindices
+255.1,-2.09,-5.44,Commercial Banks,PCBL,59344,217,15255041.0,2025-08-30 12:59:55.484375,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PDB,0,0,0.0,2025-08-30 12:59:55.484378,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PDBL,0,0,0.0,2025-08-30 12:59:55.484381,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,PFC,0,0,0.0,2025-08-30 12:59:55.484385,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,PFCL,0,0,0.0,2025-08-30 12:59:55.484389,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,PFCLL,0,0,0.0,2025-08-30 12:59:55.484392,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,PFIL,0,0,0.0,2025-08-30 12:59:55.484395,2025-08-30,TradeTurnoverTransactionSubindices
+401.55,-2.19,-9.01,Finance,PFL,12571,128,5090788.3,2025-08-30 12:59:55.484398,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,PFLBS,0,0,0.0,2025-08-30 12:59:55.484401,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PGBL,0,0,0.0,2025-08-30 12:59:55.484404,2025-08-30,TradeTurnoverTransactionSubindices
+456.72,-1.14,-5.25,Hydro Power,PHCL,6627,127,3049533.4,2025-08-30 12:59:55.484407,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Non Life Insurance,PICL,0,0,0.0,2025-08-30 12:59:55.484410,2025-08-30,TradeTurnoverTransactionSubindices
+397.83,-3.52,-14.51,Hydro Power,PMHPL,85264,290,34498245.6,2025-08-30 12:59:55.484413,2025-08-30,TradeTurnoverTransactionSubindices
+503.0,-2.26,-11.63,Life Insurance,PMLI,10611,256,5390265.5,2025-08-30 12:59:55.484417,2025-08-30,TradeTurnoverTransactionSubindices
+334.83,-2.97,-10.26,Hydro Power,PPCL,14823,114,5001633.6,2025-08-30 12:59:55.484420,2025-08-30,TradeTurnoverTransactionSubindices
+360.12,3.17,11.06,Hydro Power,PPL,17334,218,6202199.2,2025-08-30 12:59:55.484423,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PRBBL,0,0,0.0,2025-08-30 12:59:55.484426,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PRBL,0,0,0.0,2025-08-30 12:59:55.484429,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PRDBL,0,0,0.0,2025-08-30 12:59:55.484432,2025-08-30,TradeTurnoverTransactionSubindices
+788.5,0.58,4.52,Non Life Insurance,PRIN,30377,133,23670153.3,2025-08-30 12:59:55.484436,2025-08-30,TradeTurnoverTransactionSubindices
+491.14,-1.91,-9.58,Finance,PROFL,10497,88,5204150.8,2025-08-30 12:59:55.484439,2025-08-30,TradeTurnoverTransactionSubindices
+11.29,0.36,0.04,Mutual Fund,PRSF,813300,42,9180042.47,2025-08-30 12:59:55.484445,2025-08-30,TradeTurnoverTransactionSubindices
+212.33,-0.67,-1.44,Commercial Banks,PRVU,118331,488,25287318.3,2025-08-30 12:59:55.484448,2025-08-30,TradeTurnoverTransactionSubindices
+11.6,0.96,0.11,Commercial Banks,PSF,118440,39,1371721.4,2025-08-30 12:59:55.484452,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,PURBL,0,0,0.0,2025-08-30 12:59:55.484455,2025-08-30,TradeTurnoverTransactionSubindices
+917.76,-2.4,-22.54,Others,PURE,16576,338,15329476.5,2025-08-30 12:59:55.484459,2025-08-30,TradeTurnoverTransactionSubindices
+761.34,-1.83,-14.22,Hydro Power,RADHI,165617,619,128063153.5,2025-08-30 12:59:55.484466,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,RARA,0,0,0.0,2025-08-30 12:59:55.484469,2025-08-30,TradeTurnoverTransactionSubindices
+771.83,-0.4,-3.09,Hydro Power,RAWA,1094,37,834493.4,2025-08-30 12:59:55.484472,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,RBBBL,0,0,0.0,2025-08-30 12:59:55.484475,2025-08-30,TradeTurnoverTransactionSubindices
+997.05,-0.3,-2.95,Commercial Banks,RBBD2088,125,3,124457.5,2025-08-30 12:59:55.484478,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,RBBD83,0,0,0.0,2025-08-30 12:59:55.484481,2025-08-30,TradeTurnoverTransactionSubindices
+15686.91,-0.6,-94.54,Non Life Insurance,RBCL,335,21,5263994.0,2025-08-30 12:59:55.484484,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,RBSL,0,0,0.0,2025-08-30 12:59:55.484487,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,RDBL,0,0,0.0,2025-08-30 12:59:55.484490,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,REDBL,0,0,0.0,2025-08-30 12:59:55.484493,2025-08-30,TradeTurnoverTransactionSubindices
+377.04,-1.31,-5.02,Hydro Power,RFPL,15250,157,5771934.9,2025-08-30 12:59:55.484497,2025-08-30,TradeTurnoverTransactionSubindices
+298.26,-1.86,-5.64,Hydro Power,RHGCL,33645,199,10141671.7,2025-08-30 12:59:55.484500,2025-08-30,TradeTurnoverTransactionSubindices
+303.3,-1.64,-5.05,Hydro Power,RHPL,76689,365,23385838.7,2025-08-30 12:59:55.484503,2025-08-30,TradeTurnoverTransactionSubindices
+245.64,-2.37,-5.97,Hydro Power,RIDI,90701,319,22609660.6,2025-08-30 12:59:55.484506,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,RJM,0,0,0.0,2025-08-30 12:59:55.484509,2025-08-30,TradeTurnoverTransactionSubindices
+472.56,-2.61,-12.64,Finance,RLFL,20367,142,9751488.4,2025-08-30 12:59:55.484512,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Life Insurance,RLI,0,0,0.0,2025-08-30 12:59:55.484515,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,RMDC,0,0,0.0,2025-08-30 12:59:55.484518,2025-08-30,TradeTurnoverTransactionSubindices
+9.15,1.67,0.15,Mutual Fund,RMF1,43190,23,393797.0,2025-08-30 12:59:55.484521,2025-08-30,TradeTurnoverTransactionSubindices
+9.02,-0.88,-0.08,Mutual Fund,RMF2,96821,18,875142.82,2025-08-30 12:59:55.484524,2025-08-30,TradeTurnoverTransactionSubindices
+479.95,-1.9,-9.28,Life Insurance,RNLI,85710,539,41969158.9,2025-08-30 12:59:55.484528,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Hydro Power,RRHP,0,0,0.0,2025-08-30 12:59:55.484530,2025-08-30,TradeTurnoverTransactionSubindices
+689.88,-2.64,-18.74,Microfinance,RSDC,24325,225,16963304.6,2025-08-30 12:59:55.484534,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Life Insurance,RSY,2800,19,25232.5,2025-08-30 12:59:55.484537,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,RULB,0,0,0.0,2025-08-30 12:59:55.484540,2025-08-30,TradeTurnoverTransactionSubindices
+736.42,-1.2,-8.98,Hydro Power,RURU,11034,81,8162934.8,2025-08-30 12:59:55.484543,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,SABSL,0,0,0.0,2025-08-30 12:59:55.484546,2025-08-30,TradeTurnoverTransactionSubindices
+431.39,-3.87,-17.36,Development Banks,SADBL,120640,413,53141804.8,2025-08-30 12:59:55.484550,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SAEF,0,0,0.0,2025-08-30 12:59:55.484553,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SAFL,0,0,0.0,2025-08-30 12:59:55.484557,2025-08-30,TradeTurnoverTransactionSubindices
+9.38,-0.42,-0.04,Mutual Fund,SAGF,40304,16,379087.34,2025-08-30 12:59:55.484562,2025-08-30,TradeTurnoverTransactionSubindices
+649.43,-1.68,-11.11,Hydro Power,SAHAS,114053,663,74990776.1,2025-08-30 12:59:55.484567,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SAJHA,0,0,0.0,2025-08-30 12:59:55.484570,2025-08-30,TradeTurnoverTransactionSubindices
+699.88,2.82,19.22,Non Life Insurance,SALICO,22950,115,15923633.1,2025-08-30 12:59:55.484573,2025-08-30,TradeTurnoverTransactionSubindices
+2845.51,-2.31,-67.43,Microfinance,SAMAJ,2755,89,7831689.0,2025-08-30 12:59:55.484576,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SAND2085,0,0,0.0,2025-08-30 12:59:55.484579,2025-08-30,TradeTurnoverTransactionSubindices
+369.2,-0.55,-2.03,Commercial Banks,SANIMA,124976,388,46203242.9,2025-08-30 12:59:55.484582,2025-08-30,TradeTurnoverTransactionSubindices
+696.08,-2.1,-14.94,Hydro Power,SANVI,27352,735,19218534.2,2025-08-30 12:59:55.484586,2025-08-30,TradeTurnoverTransactionSubindices
+850.29,0.29,2.45,Development Banks,SAPDBL,42564,376,36384601.2,2025-08-30 12:59:55.484589,2025-08-30,TradeTurnoverTransactionSubindices
+915.16,-1.29,-11.99,Manufacturing And Processing,SARBTM,44762,264,41376168.6,2025-08-30 12:59:55.484592,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SBBLJ,0,0,0.0,2025-08-30 12:59:55.484595,2025-08-30,TradeTurnoverTransactionSubindices
+9.15,-1.29,-0.12,Commercial Banks,SBCF,134420,17,1228604.8,2025-08-30 12:59:55.484598,2025-08-30,TradeTurnoverTransactionSubindices
+1060.0,-0.93,-10.0,Commercial Banks,SBD87,25,1,26500.0,2025-08-30 12:59:55.484601,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SBD89,0,0,0.0,2025-08-30 12:59:55.484604,2025-08-30,TradeTurnoverTransactionSubindices
+390.82,-0.83,-3.28,Commercial Banks,SBI,22671,118,8874313.7,2025-08-30 12:59:55.484611,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SBIBD86,0,0,0.0,2025-08-30 12:59:55.484615,2025-08-30,TradeTurnoverTransactionSubindices
+1076.0,-1.96,-21.5,Commercial Banks,SBID83,100,3,108675.0,2025-08-30 12:59:55.484618,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SBID89,0,0,0.0,2025-08-30 12:59:55.484622,2025-08-30,TradeTurnoverTransactionSubindices
+376.27,1.29,4.8,Commercial Banks,SBL,141489,354,53169057.7,2025-08-30 12:59:55.484625,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SBLD2082,0,0,0.0,2025-08-30 12:59:55.484628,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SBLD78,0,0,0.0,2025-08-30 12:59:55.484631,2025-08-30,TradeTurnoverTransactionSubindices
+1057.0,0.48,5.0,Commercial Banks,SBLD83,50,1,52850.0,2025-08-30 12:59:55.484634,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SBLD84,0,0,0.0,2025-08-30 12:59:55.484637,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SBLD89,0,0,0.0,2025-08-30 12:59:55.484640,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,SBPP,0,0,0.0,2025-08-30 12:59:55.484643,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SBSL,0,0,0.0,2025-08-30 12:59:55.484646,2025-08-30,TradeTurnoverTransactionSubindices
+630.26,-0.17,-1.05,Commercial Banks,SCB,13295,134,8377707.3,2025-08-30 12:59:55.484649,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SCBD,0,0,0.0,2025-08-30 12:59:55.484652,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SDBD87,0,0,0.0,2025-08-30 12:59:55.484655,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SDBL,0,0,0.0,2025-08-30 12:59:55.484658,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,SDESI,0,0,0.0,2025-08-30 12:59:55.484661,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SDFL,0,0,0.0,2025-08-30 12:59:55.484664,2025-08-30,TradeTurnoverTransactionSubindices
+9.11,-1.09,-0.1,Commercial Banks,SEF,51265,21,471073.02,2025-08-30 12:59:55.484667,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SEOS,0,0,0.0,2025-08-30 12:59:55.484670,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SETI,0,0,0.0,2025-08-30 12:59:55.484673,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SEWA,0,0,0.0,2025-08-30 12:59:55.484676,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SFC,0,0,0.0,2025-08-30 12:59:55.484679,2025-08-30,TradeTurnoverTransactionSubindices
+456.21,-2.08,-9.67,Finance,SFCL,15424,163,7084514.0,2025-08-30 12:59:55.484683,2025-08-30,TradeTurnoverTransactionSubindices
+9.22,0.77,0.07,Commercial Banks,SFEF,1200,11,10911.0,2025-08-30 12:59:55.484686,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SFFIL,0,0,0.0,2025-08-30 12:59:55.484689,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SFL,0,0,0.0,2025-08-30 12:59:55.484692,2025-08-30,TradeTurnoverTransactionSubindices
+9.69,3.09,0.29,Commercial Banks,SFMF,3300,5,31612.0,2025-08-30 12:59:55.484695,2025-08-30,TradeTurnoverTransactionSubindices
+378.36,2.15,7.98,Hydro Power,SGHC,28548,230,10877629.0,2025-08-30 12:59:55.484698,2025-08-30,TradeTurnoverTransactionSubindices
+563.72,-2.24,-12.92,Non Life Insurance,SGIC,23115,216,13120053.5,2025-08-30 12:59:55.484701,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SHBL,0,0,0.0,2025-08-30 12:59:55.484705,2025-08-30,TradeTurnoverTransactionSubindices
+307.77,-2.99,-9.47,Hydro Power,SHEL,421934,1302,131989029.8,2025-08-30 12:59:55.484708,2025-08-30,TradeTurnoverTransactionSubindices
+430.93,-2.4,-10.61,Development Banks,SHINE,61803,282,26991195.7,2025-08-30 12:59:55.484711,2025-08-30,TradeTurnoverTransactionSubindices
+625.14,-1.52,-9.66,Manufacturing And Processing,SHIVM,356079,1339,224232198.4,2025-08-30 12:59:55.484714,2025-08-30,TradeTurnoverTransactionSubindices
+561.95,-1.61,-9.2,Hotels And Tourism,SHL,87475,216,49633184.1,2025-08-30 12:59:55.484717,2025-08-30,TradeTurnoverTransactionSubindices
+1890.61,-1.43,-27.45,Microfinance,SHLB,1056,41,2003542.9,2025-08-30 12:59:55.484720,2025-08-30,TradeTurnoverTransactionSubindices
+562.37,-2.42,-13.93,Hydro Power,SHPC,149728,582,85637115.7,2025-08-30 12:59:55.484724,2025-08-30,TradeTurnoverTransactionSubindices
+735.81,-1.16,-8.6,Non Life Insurance,SICL,9430,107,7018029.9,2025-08-30 12:59:55.484727,2025-08-30,TradeTurnoverTransactionSubindices
+510.0,-2.64,-13.84,Finance,SIFC,16764,142,8604139.8,2025-08-30 12:59:55.484731,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SIGS1,0,0,0.0,2025-08-30 12:59:55.484733,2025-08-30,TradeTurnoverTransactionSubindices
+9.66,-0.21,-0.02,Commercial Banks,SIGS2,343200,23,3398159.5,2025-08-30 12:59:55.484737,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SIGS3,43350,14,402393.0,2025-08-30 12:59:55.484740,2025-08-30,TradeTurnoverTransactionSubindices
+832.61,-3.8,-32.86,Hydro Power,SIKLES,19608,231,16536886.5,2025-08-30 12:59:55.484743,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Non Life Insurance,SIL,0,0,0.0,2025-08-30 12:59:55.484746,2025-08-30,TradeTurnoverTransactionSubindices
+752.39,-1.52,-11.61,Development Banks,SINDU,12801,164,9722191.4,2025-08-30 12:59:55.484749,2025-08-30,TradeTurnoverTransactionSubindices
+299.62,-1.89,-5.76,Hydro Power,SJCL,15405,113,4643119.5,2025-08-30 12:59:55.484752,2025-08-30,TradeTurnoverTransactionSubindices
+437.03,-1.66,-7.36,Life Insurance,SJLIC,17849,219,7880130.9,2025-08-30 12:59:55.484755,2025-08-30,TradeTurnoverTransactionSubindices
+920.13,-1.99,-18.71,Microfinance,SKBBL,51995,503,48240753.8,2025-08-30 12:59:55.484759,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SKDBL,0,0,0.0,2025-08-30 12:59:55.484762,2025-08-30,TradeTurnoverTransactionSubindices
+967.46,-1.68,-16.53,Microfinance,SLBBL,11088,102,10824121.4,2025-08-30 12:59:55.484766,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,SLBS,0,0,0.0,2025-08-30 12:59:55.484769,2025-08-30,TradeTurnoverTransactionSubindices
+1518.55,-0.34,-5.2,Microfinance,SLBSL,9974,117,14978757.4,2025-08-30 12:59:55.484772,2025-08-30,TradeTurnoverTransactionSubindices
+9.27,-0.11,-0.01,Commercial Banks,SLCF,32250,22,298126.5,2025-08-30 12:59:55.484776,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SLFL,0,0,0.0,2025-08-30 12:59:55.484779,2025-08-30,TradeTurnoverTransactionSubindices
+980.92,2.39,22.94,Microfinance,SMATA,51740,962,51436263.1,2025-08-30 12:59:55.484782,2025-08-30,TradeTurnoverTransactionSubindices
+2278.9,-0.92,-21.13,Microfinance,SMB,928,34,2121874.1,2025-08-30 12:59:55.484785,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SMF,0,0,0.0,2025-08-30 12:59:55.484788,2025-08-30,TradeTurnoverTransactionSubindices
+1750.0,-1.75,-31.11,Microfinance,SMFBS,1753,43,3086741.0,2025-08-30 12:59:55.484791,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,SMFDB,0,0,0.0,2025-08-30 12:59:55.484794,2025-08-30,TradeTurnoverTransactionSubindices
+896.91,-1.57,-14.26,Hydro Power,SMH,1246,20,1118930.0,2025-08-30 12:59:55.484797,2025-08-30,TradeTurnoverTransactionSubindices
+912.66,-1.39,-12.84,Hydro Power,SMHL,15612,192,14228583.8,2025-08-30 12:59:55.484800,2025-08-30,TradeTurnoverTransactionSubindices
+572.17,-1.84,-10.74,Hydro Power,SMJC,14907,140,8601656.2,2025-08-30 12:59:55.484803,2025-08-30,TradeTurnoverTransactionSubindices
+948.74,-0.59,-5.67,Microfinance,SMPDA,11148,140,10522875.6,2025-08-30 12:59:55.484806,2025-08-30,TradeTurnoverTransactionSubindices
+472.95,-1.25,-6.0,Life Insurance,SNLI,27487,496,13126794.6,2025-08-30 12:59:55.484810,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SODBL,0,0,0.0,2025-08-30 12:59:55.484813,2025-08-30,TradeTurnoverTransactionSubindices
+453.62,-2.33,-10.83,Manufacturing And Processing,SONA,48456,465,22200953.9,2025-08-30 12:59:55.484816,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Microfinance,SPARS,0,0,0.0,2025-08-30 12:59:55.484819,2025-08-30,TradeTurnoverTransactionSubindices
+520.71,-2.26,-12.02,Hydro Power,SPC,19058,144,10014833.3,2025-08-30 12:59:55.484822,2025-08-30,TradeTurnoverTransactionSubindices
+400.03,-2.99,-12.34,Hydro Power,SPDL,133784,430,54421407.9,2025-08-30 12:59:55.484825,2025-08-30,TradeTurnoverTransactionSubindices
+567.79,-2.61,-15.23,Hydro Power,SPHL,13321,99,7569063.5,2025-08-30 12:59:55.484828,2025-08-30,TradeTurnoverTransactionSubindices
+833.93,1.67,13.72,Non Life Insurance,SPIL,30244,155,24967541.4,2025-08-30 12:59:55.484831,2025-08-30,TradeTurnoverTransactionSubindices
+967.31,-0.47,-4.57,Hydro Power,SPL,2357,50,2279217.0,2025-08-30 12:59:55.484834,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SRBL,0,0,0.0,2025-08-30 12:59:55.484837,2025-08-30,TradeTurnoverTransactionSubindices
+1060.1,-1.31,-14.1,Commercial Banks,SRBLD83,115,2,121756.5,2025-08-30 12:59:55.484841,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Commercial Banks,SRD80,0,0,0.0,2025-08-30 12:59:55.484844,2025-08-30,TradeTurnoverTransactionSubindices
+403.25,-1.07,-4.38,Life Insurance,SRLI,27760,294,11255879.8,2025-08-30 12:59:55.484847,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Manufacturing And Processing,SRS,0,0,0.0,2025-08-30 12:59:55.484850,2025-08-30,TradeTurnoverTransactionSubindices
+189.69,-1.06,-2.04,Hydro Power,SSHL,58116,302,11084444.0,2025-08-30 12:59:55.484853,2025-08-30,TradeTurnoverTransactionSubindices
+5289.27,-0.28,-14.73,Tradings,STC,1055,57,5564560.3,2025-08-30 12:59:55.484856,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,STFL,0,0,0.0,2025-08-30 12:59:55.484859,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SUBBL,0,0,0.0,2025-08-30 12:59:55.484862,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,SUPRME,0,0,0.0,2025-08-30 12:59:55.484865,2025-08-30,TradeTurnoverTransactionSubindices
+869.06,-1.53,-13.47,Microfinance,SWBBL,13476,109,11783880.5,2025-08-30 12:59:55.484872,2025-08-30,TradeTurnoverTransactionSubindices
+734.02,-1.19,-8.83,Microfinance,SWMF,4668,70,3440028.9,2025-08-30 12:59:55.484875,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,SYFL,0,0,0.0,2025-08-30 12:59:55.484879,2025-08-30,TradeTurnoverTransactionSubindices
+512.24,-0.99,-5.11,Hydro Power,TAMOR,24173,198,12527420.9,2025-08-30 12:59:55.484882,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,TBBL,0,0,0.0,2025-08-30 12:59:55.484885,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,TDBL,0,0,0.0,2025-08-30 12:59:55.484888,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,TMDBL,0,0,0.0,2025-08-30 12:59:55.484891,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,TNBL,0,0,0.0,2025-08-30 12:59:55.484894,2025-08-30,TradeTurnoverTransactionSubindices
+354.55,-1.51,-5.43,Hydro Power,TPC,16601,121,5947446.4,2025-08-30 12:59:55.484897,2025-08-30,TradeTurnoverTransactionSubindices
+960.0,-1.56,-15.25,Hotels And Tourism,TRH,7639,103,7406149.5,2025-08-30 12:59:55.484900,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Hotels And Tourism,TRHPR,0,0,0.0,2025-08-30 12:59:55.484903,2025-08-30,TradeTurnoverTransactionSubindices
+853.2,3.41,28.12,Hydro Power,TSHL,12441,133,10532658.2,2025-08-30 12:59:55.484906,2025-08-30,TradeTurnoverTransactionSubindices
+869.92,-2.17,-19.28,Others,TTL,30314,1152,26603472.0,2025-08-30 12:59:55.484909,2025-08-30,TradeTurnoverTransactionSubindices
+474.18,-0.33,-1.59,Hydro Power,TVCL,6792,96,3228469.1,2025-08-30 12:59:55.484912,2025-08-30,TradeTurnoverTransactionSubindices
+524.41,-1.4,-7.42,Non Life Insurance,UAIL,52391,300,27564782.6,2025-08-30 12:59:55.484915,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,UBBL,0,0,0.0,2025-08-30 12:59:55.484918,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,UFCL,0,0,0.0,2025-08-30 12:59:55.484921,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,UFIL,0,0,0.0,2025-08-30 12:59:55.484924,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,UFL,0,0,0.0,2025-08-30 12:59:55.484927,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,UFLK,0,0,0.0,2025-08-30 12:59:55.484930,2025-08-30,TradeTurnoverTransactionSubindices
+596.53,-1.59,-9.62,Hydro Power,UHEWA,15947,158,9607593.5,2025-08-30 12:59:55.484934,2025-08-30,TradeTurnoverTransactionSubindices
+3590.28,-0.9,-32.7,Microfinance,ULBSL,704,33,2505262.6,2025-08-30 12:59:55.484937,2025-08-30,TradeTurnoverTransactionSubindices
+486.34,-1.49,-7.34,Hydro Power,ULHC,12282,144,6036570.9,2025-08-30 12:59:55.484940,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Life Insurance,ULI,0,0,0.0,2025-08-30 12:59:55.484943,2025-08-30,TradeTurnoverTransactionSubindices
+577.81,-0.56,-3.25,Hydro Power,UMHL,339552,590,194948992.2,2025-08-30 12:59:55.484946,2025-08-30,TradeTurnoverTransactionSubindices
+601.71,-1.38,-8.41,Hydro Power,UMRH,28236,130,17083111.0,2025-08-30 12:59:55.484949,2025-08-30,TradeTurnoverTransactionSubindices
+392.36,-2.81,-11.33,Hydro Power,UNHPL,244805,645,98103363.7,2025-08-30 12:59:55.484952,2025-08-30,TradeTurnoverTransactionSubindices
+47980.8,-2.0,-979.2,Manufacturing And Processing,UNL,10,1,479808.0,2025-08-30 12:59:55.484955,2025-08-30,TradeTurnoverTransactionSubindices
+2113.41,-2.19,-47.38,Microfinance,UNLB,977,42,2076270.4,2025-08-30 12:59:55.484958,2025-08-30,TradeTurnoverTransactionSubindices
+391.52,-2.13,-8.51,Hydro Power,UPCL,179721,484,71651217.9,2025-08-30 12:59:55.484961,2025-08-30,TradeTurnoverTransactionSubindices
+193.09,-1.17,-2.28,Hydro Power,UPPER,113914,585,22091093.2,2025-08-30 12:59:55.484964,2025-08-30,TradeTurnoverTransactionSubindices
+476.12,0.72,3.42,Hydro Power,USHEC,25885,193,12283504.7,2025-08-30 12:59:55.484968,2025-08-30,TradeTurnoverTransactionSubindices
+739.74,-3.61,-27.7,Hydro Power,USHL,7186,79,5359051.4,2025-08-30 12:59:55.484971,2025-08-30,TradeTurnoverTransactionSubindices
+2244.07,0.21,4.64,Microfinance,USLB,17999,229,40108165.4,2025-08-30 12:59:55.484974,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,VFL,0,0,0.0,2025-08-30 12:59:55.484977,2025-08-30,TradeTurnoverTransactionSubindices
+806.31,-2.32,-19.14,Microfinance,VLBS,3270,51,2651458.8,2025-08-30 12:59:55.484980,2025-08-30,TradeTurnoverTransactionSubindices
+596.2,-1.02,-6.17,Hydro Power,VLUCL,8243,114,4899375.1,2025-08-30 12:59:55.484983,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Development Banks,WDBL,0,0,0.0,2025-08-30 12:59:55.484987,2025-08-30,TradeTurnoverTransactionSubindices
+2140.2,-1.37,-29.8,Microfinance,WNLB,1149,46,2465489.1,2025-08-30 12:59:55.484990,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,YFL,0,0,0.0,2025-08-30 12:59:55.484994,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Hotels And Tourism,YHL,0,0,0.0,2025-08-30 12:59:55.484997,2025-08-30,TradeTurnoverTransactionSubindices
+0.0,0.0,0.0,Finance,ZFL,0,0,0.0,2025-08-30 12:59:55.485001,2025-08-30,TradeTurnoverTransactionSubindices

@@ -1,0 +1,5 @@
+auditId,change,close,currentValue,exchangeIndexId,fiftyTwoWeekHigh,fiftyTwoWeekLow,generatedTime,high,id,index,low,perChange,previousClose,fetched_at,date,source_endpoint
+0,-2.55,192.79,190.23,0,206.26,170.04,0,193.211,62,Float Index,190.1262,-1.32,190.2333,2025-08-30 12:59:55.213376,2025-08-30,NepseIndex
+0,-38.1,2819.11,2781.0,0,3002.08,2464.41,0,2824.8574,58,NEPSE Index,2778.9296,-1.35,2781.0074,2025-08-30 12:59:55.213397,2025-08-30,NepseIndex
+0,-2.02,165.41,163.39,0,177.31,145.59,0,165.7437,63,Sensitive Float Index,163.2382,-1.22,163.3926,2025-08-30 12:59:55.213403,2025-08-30,NepseIndex
+0,-5.74,483.43,477.68,0,518.6,434.98,0,484.1949,57,Sensitive Index,477.3034,-1.18,477.6842,2025-08-30 12:59:55.213412,2025-08-30,NepseIndex

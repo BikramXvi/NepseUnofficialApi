@@ -1,0 +1,14 @@
+change,currentValue,id,index,perChange,fetched_at,date,source_endpoint
+-12.65,1440.07,51,Banking SubIndex,-0.87,2025-08-30 12:59:55.234662,2025-08-30,NepseSubIndices
+-142.75,5842.3,55,Development Bank Index,-2.38,2025-08-30 12:59:55.234681,2025-08-30,NepseSubIndices
+-49.37,2448.6,60,Finance Index,-1.97,2025-08-30 12:59:55.234686,2025-08-30,NepseSubIndices
+-114.88,7040.7,52,Hotels And Tourism Index,-1.6,2025-08-30 12:59:55.234690,2025-08-30,NepseSubIndices
+-52.18,3560.21,54,HydroPower Index,-1.44,2025-08-30 12:59:55.234693,2025-08-30,NepseSubIndices
+-1.79,111.41,67,Investment Index,-1.58,2025-08-30 12:59:55.234697,2025-08-30,NepseSubIndices
+-219.96,13061.56,65,Life Insurance,-1.65,2025-08-30 12:59:55.234700,2025-08-30,NepseSubIndices
+-131.47,7596.12,56,Manufacturing And Processing,-1.7,2025-08-30 12:59:55.234704,2025-08-30,NepseSubIndices
+-73.94,5173.96,64,Microfinance Index,-1.4,2025-08-30 12:59:55.234708,2025-08-30,NepseSubIndices
+0.02,20.43,66,Mutual Fund,0.1,2025-08-30 12:59:55.234712,2025-08-30,NepseSubIndices
+2.44,12522.18,59,Non Life Insurance,0.01,2025-08-30 12:59:55.234716,2025-08-30,NepseSubIndices
+-47.06,2714.43,53,Others Index,-1.7,2025-08-30 12:59:55.234719,2025-08-30,NepseSubIndices
+-53.02,4153.0,61,Trading Index,-1.26,2025-08-30 12:59:55.234722,2025-08-30,NepseSubIndices

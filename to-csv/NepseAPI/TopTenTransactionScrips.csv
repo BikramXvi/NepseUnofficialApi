@@ -1,0 +1,323 @@
+lastTradedPrice,securityId,securityName,symbol,totalTrades,fetched_at,date,source_endpoint
+1030.1,9234,Himalayan Reinsurance Limited,HRL,4291,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+568.9,9267,Bikash Hydropower Company Limited,BHCL,3497,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1689.0,2881,Nepal Reinsurance Company Limited,NRIC,2138,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1419.0,235,Himalayan Distillery Limited,HDL,1918,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+268.5,2757,Arun Kabeli Power Ltd.,AKPL,1710,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+626.0,2809,SHIVAM CEMENTS LTD,SHIVM,1339,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+308.0,2934,Singati Hydro Energy Limited,SHEL,1302,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+870.0,9262,Trade Tower Limited,TTL,1152,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+551.0,358,Lumbini Bikas Bank Ltd.,LBBL,1045,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+279.8,2919,Nepal Infrastructure Bank Limited,NIFRA,1028,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+985.0,2761,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,962,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+237.0,2903,Liberty Energy Company Limited,LEC,944,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+402.9,2743,Ngadi Group Power Ltd.,NGPL,932,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+201.0,142,Kumari Bank Limited,KBL,920,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+844.0,559,NLG Insurance Company Ltd.,NLG,812,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+537.0,9183,Nepal Republic Media Limited,NRM,788,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1264.9,9213,Hathway Investment Nepal Limited,HATHY,762,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+586.0,8005,Mailung Khola Jal Vidhyut Company Limited,MKJC,742,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1052.0,2917,Chandragiri Hills Limited,CGH,736,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+696.0,9263,Sanvi Energy Limited,SANVI,735,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+834.0,153,Butwal Power Company Limited,BPCL,717,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+569.0,8045,Green Ventures Limited,GVL,698,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+649.0,8021,Sahas Urja Limited,SAHAS,663,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+391.2,2831,Union Hydropower Limited,UNHPL,645,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+198.3,8055,Balephi Hydropower Limited,BHL,628,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+447.5,474,Muktinath Bikas Bank Ltd.,MNBBL,623,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+760.1,2776,Radhi Bidyut Company Ltd,RADHI,619,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+527.0,459,Kamana Sewa Bikas Bank Limited,KSBBL,610,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+580.0,2760,United Modi Hydropower Ltd.,UMHL,590,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+193.3,2792,Upper Tamakoshi Hydropower Ltd,UPPER,585,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+563.5,591,Sanima Mai Hydropower Ltd.,SHPC,582,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+291.1,360,Arun Valley Hydropower Development Co. Ltd.,AHPC,563,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+407.0,393,Himalayan Life Insurance Limited,HLI,542,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+479.0,9199,Reliable Nepal Life Insurance Limited,RNLI,539,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+287.5,2742,Hydorelectricity Investment and Development Company Ltd,HIDCL,522,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+920.0,574,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,SKBBL,503,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+472.9,9201,Sun Nepal Life Insurance Company Limited,SNLI,496,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+529.0,131,Nabil Bank Limited,NABIL,489,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+212.2,255,Prabhu  Bank Limited,PRVU,488,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+391.5,2810,UNIVERSAL POWER COMPANY LTD,UPCL,484,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+885.1,490,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,481,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+211.2,132,Nepal Investment Mega Bank Limited,NIMB,471,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+453.5,9216,Sonapur Minerals And Oil Limited,SONA,465,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1230.0,9252,Crest Micro Life Insurance Limited,CREST,459,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+294.0,697,Api Power Company Ltd.,API,455,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+400.0,2759,Synergy Power Development Ltd.,SPDL,430,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+453.9,9184,IME Life Insurance Company Limited,ILI,427,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2583.0,3946,CEDB Holdings Limited,CHDC,425,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+432.0,472,Shangrila Development Bank Ltd.,SADBL,413,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+204.2,8111,Hydorelectricity Investment and Development Company Limited Promoter,HIDCLP,410,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+251.6,341,Global IME Bank Limited,GBIME,409,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+851.9,307,Nepal Doorsanchar Company Limited,NTC,402,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+236.5,2806,Ghalemdi Hydro Limited,GHL,402,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+474.0,9209,Citizen Life Insurance Company Limited,CLI,395,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+351.0,139,NIC Asia Bank Ltd.,NICA,391,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+367.2,171,Sanima Bank Limited,SANIMA,388,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+491.0,9193,Ghorahi Cement Industry Limited,GCIL,384,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+397.0,401,Mahalaxmi Bikas Bank Ltd.,MLBL,380,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+747.0,137,Everest Bank Limited,EBL,380,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+196.9,2880,Himal Dolakha Hydropower Company Limited,HDHPC,378,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2134.1,2898,NRN Infrastructure and Development Limited,NRN,377,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+848.0,2860,Saptakoshi Development Bank Ltd,SAPDBL,376,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1404.2,9250,Nepal Micro Insurance Company Limited,NMIC,370,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+304.5,2841,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,365,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1070.0,164,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,362,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+522.0,8102,Mandakini Hydropower Limited,MHL,357,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+376.9,145,Siddhartha Bank Limited,SBL,354,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+253.0,517,Nepal Bank Limited,NBL,353,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+432.9,417,Garima Bikas Bank Limited,GBBL,349,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+209.0,134,Himalayan Bank Limited,HBL,345,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1325.0,9256,Om Megashree Pharmaceuticals Limited,OMPL,343,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+630.6,2913,Mountain Energy Nepal Limited,MEN,342,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1024.0,2807,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,341,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+575.0,2787,Kalika power Company Ltd,KPCL,341,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+337.5,418,Jyoti Bikas Bank Limited,JBBL,338,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+912.0,9258,Pure Energy Limited,PURE,338,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+893.0,166,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,335,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+860.0,149,Oriental Hotels Limited,OHL,321,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+510.1,154,Chilime Hydropower Company Limited,CHCL,320,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+245.9,610,Ridi Power Company Limited,RIDI,319,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+281.0,8070,Dordi Khola Jal Bidyut Company Limited,DORDI,319,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+204.0,2788,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,318,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+326.0,397,Agricultural Development Bank Limited,ADBL,314,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+564.0,8075,Bindhyabasini Hydropower Development Company Limited,BHDC,303,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+190.0,2907,Shiva Shree Hydropower Ltd,SSHL,302,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+525.0,180,United Ajod Insurance Limited,UAIL,300,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+403.1,5982,Sanima Reliance Life Insurance Limited,SRLI,294,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+399.0,2786,Panchakanya Mai Hydropower Ltd,PMHPL,290,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+430.0,473,Shine Resunga Development Bank Ltd.,SHINE,282,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+267.0,2924,GreenLife Hydropower Limited,GLH,272,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+207.1,152,National Hydro Power Company Limited,NHPC,268,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+251.0,238,NMB Bank Limited,NMB,266,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+588.0,179,Himalayan Everest Insurance Limited,HEI,265,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+915.0,9242,Sarbottam Cement Limited,SARBTM,264,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+504.0,2915,Prabhu Mahalaxmi Life Insurance Limited,PMLI,256,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+299.0,9179,Modi Energy Limited,MEL,254,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+285.6,2766,Chhyangdi Hydropower Ltd.,CHL,248,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+358.0,686,Barun Hydropower Co. Ltd.,BARUN,246,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+316.0,8031,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,246,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+784.5,187,Nepal Life Insurance Co. Ltd.,NLIC,245,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1927.0,210,Citizen Investment Trust,CIT,237,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+830.0,8126,Sikles Hydropower Limited,SIKLES,231,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+377.0,8100,Swet-Ganga Hydropower & Construction Limited ,SGHC,230,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2248.9,2774,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,229,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2090.0,9246,Guardian Micro Life Insurance Limited ,GMLI,229,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1493.0,4951,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,JBLB,228,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+493.9,2767,Himalayan Power Partner Ltd.,HPPL,227,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+688.1,2748,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,225,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+437.5,403,SuryaJyoti Life Insurance Company Limited,SJLIC,219,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+373.0,8076,Himalayan Hydropower Limited,HHL,219,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+361.0,8122,People's Power Limited,PPL,218,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+255.0,357,Prime Commercial Bank Ltd.,PCBL,217,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+569.8,2908,Sanima GIC Insurance Limited,SGIC,216,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+561.5,147,Soaltee Hotel Limited,SHL,216,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+602.0,178,National Life Insurance Co. Ltd.,NLICL,216,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+680.5,194,Nepal Finance Ltd.,NFS,215,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+239.0,2824,Himalaya Urja Bikas Company Limited,HURJA,208,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+625.3,371,Miteri Development Bank Limited,MDB,206,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+234.5,141,Laxmi Sunrise Bank Limited,LSL,203,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+686.7,516,Manjushree Finance Ltd.,MFIL,202,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+300.0,8108,Rapti Hydro And General Construction Limited,RHGCL,199,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+512.9,9156,Sanima Middle Tamor Hydropower Limited,TAMOR,198,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+261.0,2811,Mountain Hydro Nepal Limited,MHNL,194,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+475.0,8104,Upper Solu Hydro Electric Company Limited,USHEC,193,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+914.0,9146,Super Madi Hydropower Limited,SMHL,192,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1170.0,2744,Green Development Bank Ltd.,GRDBL,187,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+209.8,348,Citizens Bank International Limited,CZBIL,186,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+672.0,273,ICFC Finance Limited,ICFC,186,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1726.0,8065,CYC Nepal Laghubitta Bittiya Sanstha Limited,CYCL,184,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+496.5,385,Asian Life Insurance Co. Limited,ALICL,179,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+250.4,140,Machhapuchhre Bank Limited,MBL,173,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+754.9,561,Sindhu Bikash Bank Ltd,SINDU,164,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+455.1,256,Samriddhi Finance Company Limited,SFCL,163,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1242.5,2832,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,160,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+596.0,8099,Upper Hewakhola Hydropower Company Limited,UHEWA,158,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+788.0,163,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,157,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+377.7,8066,River Falls Power Limited,RFPL,157,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+828.0,182,Siddhartha Premier Insurance Limited,SPIL,155,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+642.6,9150,Asian Hydropower Limited,AHL,155,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1474.0,2768,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,154,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+859.0,1741,Mero Microfinance Bittiya Sanstha Ltd.,MERO,148,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+486.1,9208,Upper Lohore Khola Hydropower Company Limited,ULHC,144,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+518.5,8025,Samling Power Company Limited,SPC,144,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+702.3,183,Neco Insurance Limited,NIL,144,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+472.0,587,Reliance Finance Ltd.,RLFL,142,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+509.8,244,Shree Investment Finance Co. Ltd.,SIFC,142,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+947.0,2896,Sampada Laghubitta Bittiya Sanstha Limited,SMPDA,140,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+572.0,9159,Sagarmatha Jalabidhyut Company Limited,SMJC,140,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+777.0,583,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,137,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+443.0,9203,Manakamana Engineering Hydropower Limited,MEHL,137,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+602.0,9173,City Hotel Limited,CITY,135,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+615.0,2887,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,135,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+499.0,227,Best Finance Company Ltd.,BFC,135,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+630.9,133,Standard Chartered Bank Limited,SCB,134,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+787.0,184,Prabhu Insurance Ltd.,PRIN,133,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+650.0,274,Excel Development Bank Ltd.,EDBL,133,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+852.0,9194,Three Star Hydropower Limited,TSHL,133,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1061.0,593,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,132,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1635.1,9230,Muktinath Krishi Company Limited,MKCL,130,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+601.5,2914,United IDI Mardi RB Hydropower Limited.,UMRH,130,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+402.0,236,Pokhara Finance Ltd.,PFL,128,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+456.2,8133,Peoples Hydropower Company Limited,PHCL,127,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+353.0,8022,Terhathum Power Company Limited,TPC,121,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+390.0,135,Nepal SBI Bank Limited,SBI,118,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+437.5,9149,Maya Khola Hydropower Company Limited,MKHC,117,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1509.0,2804,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,117,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+710.0,185,Sagarmatha Lumbini Insurance Co. Limited,SALICO,115,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+336.0,2813,Panchthar Power Compant Limited,PPCL,114,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+593.0,9225,Vision Lumbini Urja Company Limited ,VLUCL,114,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+300.0,2842,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,113,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+467.0,250,Janaki Finance Company Limited,JFL,112,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+802.0,172,Narayani Development Bank Limited,NABBC,110,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+866.5,268,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,109,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+306.9,2789,Joshi Hydropower Development Company Ltd,JOSHI,108,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+830.0,2784,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,107,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+736.0,192,Shikhar Insurance Co. Ltd.,SICL,107,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+420.2,8026,Nyadi Hydropower Limited,NYADI,107,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+531.0,186,IGI Prudential insurance Limited,IGI,105,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+630.1,232,Goodwill Finance Limited,GFCL,104,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+960.0,148,Taragaon Regency Hotel Limited,TRH,103,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+505.0,245,Central Finance Co. Ltd.,CFCL,102,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+966.0,545,Swarojgar Laghubitta Bittiya Sanstha Ltd.,SLBBL,102,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+448.0,9158,Molung Hydropower Company Limited,MHCL,101,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+715.0,9171,Bhugol Energy Development Company Limited,BEDC,100,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1297.0,705,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,99,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+566.0,8121,Sayapatri Hydropower Limited,SPHL,99,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+600.0,471,Multipurpose Finance Company  Limited,MPFL,98,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+517.1,8032,Buddha Bhumi Nepal Hydropower Company Limited,BNHC,96,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+473.0,9218,Trishuli Jal Vidhyut Company Limited ,TVCL,96,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+676.3,396,Nerude Mirmire Laghubitta Bittiya Sanstha Limited,NMLBBL,93,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+612.0,176,Nepal Insurance Co. Ltd.,NICL,92,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1957.0,450,Corporate Development Bank Limited,CORBL,91,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+868.2,188,Life Insurance Corporation (Nepal) Limited,LICN,89,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2874.0,4965,Samaj Laghubittya Bittiya Sanstha Limited,SAMAJ,89,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+492.0,338,Progressive Finance Limited,PROFL,88,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+314.0,2754,Dibyashwori Hydropower Ltd.,DHPL,87,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+576.9,9170,Dolti Power Company Limited,DOLTI,87,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+705.1,2769,Nepal Hydro Developers Ltd.,NHDL,84,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+530.5,204,Gurkhas Finance Ltd.,GUFL,83,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+880.0,9233,Nepal Warehousing Company Limited ,NWCL,81,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+737.9,2935,Ru Ru Jalbidhyut Pariyojana Limited,RURU,81,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1085.5,9151,Kalinchowk Darshan Limited,KDL,80,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+256.1,2751,Khanikhola Hydropower Co. Ltd.,KKHC,80,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+739.1,9192,Upper Syange Hydropower Limited,USHL,79,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2182.0,2826,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,77,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+850.3,9212,Mandu Hydropower Limited,MANDU,77,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+10.16,9191,Citizens Super 30 Mutual Fund,C30MF,76,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+563.1,9176,Ingwa Hydropower Limited,IHL,74,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1004.9,693,Himalayan Laghubitta Bittiya Sanstha Limited,HLBSL,74,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1545.0,601,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,73,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1025.0,8117,Aviyan Laghubitta Bittiya Sanstha Limited,AVYAN,71,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+476.0,263,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,71,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+732.2,706,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,70,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1290.0,2746,National Laghubitta Bittiya Sanstha Limited,NMFBS,68,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+590.0,9166,Makar Jitumaya Suri Hydropower Limited,MAKAR,66,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1430.0,8123,Dhaulagiri Laghubitta Bittiya Sanstha Limited,DLBS,62,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+570.0,9217,Mathillo Mailun Khola Jalvidhyut Limited,MMKJL,58,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+678.0,9232,Chirkhwa Hydropower Limited ,CKHL,57,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+5349.0,155,Salt Trading Corporation,STC,57,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1135.1,2758,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,54,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+523.0,9175,Menchhiyam Hydropower Limited,MCHL,54,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1086.0,694,Matribhumi Lagubitta Bittiya Sanstha Limited,MATRI,52,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+11.46,2867,NMB 50,NMB50,52,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1094.0,2790,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,51,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2111.7,2925,Mahila Lagubitta Bittiya Sanstha Limited ,MLBSL,51,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+5890.0,9161,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,ANLB,51,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+815.0,687,Vijaya laghubitta Bittiya Sanstha Ltd.,VLBS,51,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+969.0,9147,Shuvam Power Limited,SPL,50,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+796.5,9167,Mai Khola Hydropower Limited,MKHL,49,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+701.0,704,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,47,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2138.5,2781,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,46,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+11.4,8125,NMB Sulav Investment Fund - 2,NSIF2,44,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1750.0,2829,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,43,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1550.2,8041,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,43,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+10.13,8024,Nabil Balanced Fund-3,NBF3,43,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2088.1,9140,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,42,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+11.3,9174,Prabhu Smart Fund,PRSF,42,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+771.0,9135,Barahi Hydropower Public Limited,BHPL,41,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1898.0,8132,Shrijanshil Laghubitta Bittiya Sanstha Limited,SHLB,41,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+5420.0,156,Bishal Bazar Company Limited,BBC,40,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1249.0,695,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,40,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+11.6,4947,Prabhu Select Fund,PSF,39,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+905.2,9214,Bhagawati Hydropower Development Company Limited,BGWT,38,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1056.0,8034,Emerging Nepal Limited,ENL,38,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+776.0,9181,Rawa Energy Development Limited,RAWA,37,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.15,9254,NMB Hybrid Fund L- II,NMBHF2,36,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.03,8074,Kumari Dhanabriddhi Yojana,KDBY,35,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+2282.0,2771,Support Microfinance Bittiya Sanstha Ltd.,SMB,34,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+587.4,8131,Eastern Hydropower Limited,EHPL,34,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+3608.0,8063,Upakar Laghubitta Bittiya Sanstha Limited,ULBSL,33,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.28,9248,Garima Samriddhi Yojana,GSY,30,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1035.0,618,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,29,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1618.8,2815,Ganapati Laghubitta Bittiya Sanstha Limited,GMFBS,28,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.32,8023,Mega Mutual Fund -1,MMF1,25,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.07,9198,Laxmi Value Fund 2,LVF2,25,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+900.5,9215,Mid Solu Hydropower Limited,MSHL,24,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.89,2859,Siddhartha Investment Growth Scheme - 2,SIGS2,23,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.15,4968,RBB Mutual Fund 1,RMF1,23,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+11.1,8106,Global IME Balanced Fund-1,GIBF1,22,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.29,2923,Sanima Large Cap Fund,SLCF,22,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.1,2770,Siddhartha Equity Fund,SEF,21,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+15645.0,177,Rastriya Beema Company Limited,RBCL,21,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.25,9245,Muktinath Mutual Fund 1,MNMF1,21,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+882.0,9148,Super Mai Hydropower Limited,SMH,20,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.26,2902,Laxmi Unnati Kosh,LUK,20,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.2,9259,Reliable Samriddhi Yojana,RSY,19,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.05,2933,Kumari Equity Fund,KEF,18,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.02,9178,RBB Mutual Fund 2,RMF2,18,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1590.0,8018,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,17,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+8.9,8073,NIC Asia Flexi CAP Fund,NICFC,17,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.15,2937,Sunrise Bluechip Fund,SBCF,17,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.38,9139,Sanima Growth Fund,SAGF,16,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+10.26,2835,NABIL BALANCED FUND-2,NBF2,15,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+8.85,9236,NIC ASIA Growth Fund-2,NICGF2,15,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.25,9182,Siddhartha Investment Growth Scheme 3,SIGS3,14,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.17,9257,MBL Equity Fund,MBLEF,14,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+11.63,9221,Himalayan 80-20,H8020,13,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+163.2,469,Nepal Investment Mega Bank Ltd. Promoter Share,NIMBPO,12,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.39,9241,Kumari Sabal Yojana,KSY,11,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+11950.0,213,Bottlers Nepal (Terai) Limited,BNT,11,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1075.0,8027,Nabil Debenture 2085,NBLD85,11,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.22,9154,Sunrise Focused Equity Fund,SFEF,11,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+12900.0,634,Rastriya Beema Company Limited Promoter Share,RBCLPO,11,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1900.0,9196,Kutheli Bukhari Small Hydropower Limited,KBSH,10,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+8.91,2863,NIC Asia Balanced Fund,NICBF,10,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.3,9138,NIBL Growth Fund,NIBLGF,10,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+8.75,9244,NIBL Stable Fund,NIBLSTF,9,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+10.14,2862,CITIZENS MUTUAL FUND 2,CMF2,9,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+8.73,4949,NIBL Samriddhi Fund -2,NIBSF2,8,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1070.0,9249,9% ICFC Finance Limited Debenture 2088,ICFCD88,7,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1010.0,9261,Nifra Green Energy Debenture 6% - 2088/89,NIFRAGED,7,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+378.0,700,Himalayan Everest Insurance Limited Promoter,HEIP,5,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+8.91,4967,NIC Asia Select Fund 30,NICSF,5,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+9.69,2877,Sunrise First Mutual Fund,SFMF,5,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1050.0,8033,"Garima Debenture, 2085",GBBD85,4,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1090.0,6984,8.75 % Prime Debenture 2085,PBD85,3,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+16082.0,195,Bottlers Nepal (Balaju) Limited,BNL,3,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1076.0,8110,10.25% Nepal SBI Bank Debenture 2083,SBID83,3,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1117.0,2889,10.25% Citizens Bank Debenture 2086,CIZBD86,3,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1007.2,9255,Everest Bank Limited Debenture 2091,EBLD91,3,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+994.1,9264,7% RBBL Debenture 2088,RBBD2088,3,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1101.0,8116,10.15% Prime Debenture 2084,PBD84,2,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1112.0,8097,10% Prime Debenture 2088,PBD88,2,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1060.1,2878,10.25% Sunrise Bank Debenture 2083,SRBLD83,2,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1115.2,8043,Civil Bank Debenture 2088,CBLD88,2,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1038.1,4959,8.5% Nepal Bank Debenture 2087,NBLD87,2,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1036.5,8044,Everest Bank Limited,EBLD86,2,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1200.0,8127,11% KBL Debenture 2089,KBLD89,2,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1060.0,2869,11% NIC Asia Debenture 082/83,NICAD8283,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1165.0,8119,10.50% Everest Bank Limited Debenture 2085,EBLD85,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1010.0,9152,"Everest Bank Limited Energy Bond, 2089",EBLEB89,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1030.0,9141,NIFRA Uraj Rinpatra7%-2085/86,NIFRAUR85/86,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+47980.8,219,Unilever Nepal Limited,UNL,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1095.0,8004,Global IME Bank Limited Debenture 2086/87,GBILD86/87,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+104.0,544,Prime Commercial Bank Promoter Share,PCBLP,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1126.0,8068,Century Debenture 2088,CCBD88,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1160.0,9243,10% NIMB Debenture 2090,NIMBD90,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1100.0,2904,10% Prabhu Bank Debenture 2084 ,PBLD84,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+10.0,9269,Global IME Sammunat Yojana -2,GBIMESY2,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1088.0,4969,Muktinath Debenture 2084/85,MND84/85,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1060.0,2922,8.5% Sanima Debenture 2087,SBD87,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
+1057.0,2864,10.25% SBL Debenture 2083,SBLD83,1,2025-08-30 12:59:55.143146,2025-08-30,TopTenTransactionScrips
